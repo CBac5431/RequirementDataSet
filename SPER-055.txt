@@ -1,0 +1,7 @@
+SPER-055
+H
+The straylight level received at the detector element location of the
+PLM/Focal Plane Unit Straylight Models by self emission, not including
+the self-emission of the telescope reflectors alone, shall be less than
+10% of the background induced by the self emission of the telescope
+reflectors.

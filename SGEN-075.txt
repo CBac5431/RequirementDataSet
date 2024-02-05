@@ -1,0 +1,5 @@
+SGEN-075
+H/P
+The flight ready spacecraft shall comply with the static and dynamic
+balance requirements specified in the ARIANE 5 Users manual (
+AD6-1 ).

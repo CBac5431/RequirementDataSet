@@ -1,0 +1,7 @@
+SGEN-170
+H/P
+Each item of the spacecraft shall be directly interchangeable in form,
+fit and function with another item of the same part number
+(configuration item number). The performance characteristics and
+dimensions of like units shall be sufficiently uniform to permit
+interchange with a minimum of adjustment and re-calibration.

@@ -1,0 +1,4 @@
+SINT-045
+P
+The Planck spacecraft shall provide the necessary resources for the
+average

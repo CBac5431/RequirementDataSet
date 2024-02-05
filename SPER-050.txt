@@ -1,0 +1,7 @@
+SPER-050
+H
+The parasitic light in the focal plane shall be below 1% of the
+background induced by self emission of the optical system for Sun,
+Earth, Moon at worst case locations corresponding to the aspect angle
+limits as specified in Section 4.2.7 for the Herschel observation
+mission phase.

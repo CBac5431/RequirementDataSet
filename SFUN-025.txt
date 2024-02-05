@@ -1,0 +1,7 @@
+SFUN-025
+H
+The Herschel Service Module shall provide the following specific
+functions in addition to the above mentioned:
+− support the Extended Herschel Payload Module
+− interface with the launcher or the Planck spacecraft according
+to the selected launch configuration

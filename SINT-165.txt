@@ -1,0 +1,4 @@
+SINT-165
+H/P
+The spacecraft Ground Support Equipment shall be compatible with
+the requirements listed in AD6-2/2.

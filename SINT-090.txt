@@ -1,0 +1,6 @@
+SINT-090
+H
+The spacecraft shall accommodate the Herschel telescope defined in
+AD2-1 including mechanisms (TBC) and shall provide the resources to
+ensure that the performance requirements of Herschel and the needs
+of its instruments are fulfilled.

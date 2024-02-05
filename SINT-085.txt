@@ -1,0 +1,5 @@
+SINT-085
+H
+The Optical Bench (OB) supporting the Focal Plane Units of the
+Herschel instruments inside the Herschel Payload Module (FPLM)
+shall be in aluminium.

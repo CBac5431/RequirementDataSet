@@ -1,0 +1,5 @@
+SINT-047
+H/P
+The spacecraft shall provide the necessary resources for the burst
+acquisition of at least 300 Kbps science telemetry from a single
+instrument for at least 30 minutes.

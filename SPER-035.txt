@@ -1,0 +1,4 @@
+SPER-035
+P
+For Planck , propellant for orbit maintenance, attitude control and
+momentum management shall be dimensioned for 2.5 years.

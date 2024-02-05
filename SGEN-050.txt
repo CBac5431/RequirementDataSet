@@ -1,0 +1,5 @@
+SGEN-050
+H/P
+The total mass of the Herschel / Planck composite at launch ,
+including the scientific instruments and ESA reserve, shall not exceed
+5593 kg including applicable development margins.

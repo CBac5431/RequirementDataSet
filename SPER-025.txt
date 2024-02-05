@@ -1,0 +1,6 @@
+SPER-025
+H
+The lifetime in orbit ( from launch till the end of the mission ) of
+Herschel items which degrade with time or usage shall be designed
+for 4.5 years , under nominal conditions ( no additional margin is
+required ).

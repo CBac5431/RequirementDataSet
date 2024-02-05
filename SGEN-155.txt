@@ -1,0 +1,4 @@
+SGEN-155
+H/P
+Items to be removed before flight (red tag items) shall be visible after
+integration with the spacecraft.

@@ -1,0 +1,5 @@
+SINT-155
+H/P
+The Herschel and Planck spacecraft design and operations shall
+comply with all performances, requirements, interfaces and operations
+specified in the Ariane 5 User’s Manual (AD6-1).

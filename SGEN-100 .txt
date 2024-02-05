@@ -1,0 +1,11 @@
+SGEN-100 
+H/P
+Materials and combinations of materials bonded to each other shall be
+resistant to the thermal cycling to which they will be exposed until the
+end of the mission. A standard thermal cycling method is defined in
+AD6-14, but the contractor shall as necessary perform specific thermal
+cycling tests which are representative of the actual qualification
+temperatures for the application, for qualification with at least a factor
+1.5 on the number of cycles expected until end of the nominal lifetime
+(minimum 10 cycles).
+

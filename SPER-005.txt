@@ -1,0 +1,6 @@
+SPER-005
+H
+For the Herschel mission , the Herschel spacecraft shall have a
+nominal lifetime of 3.5 years from launch till the end of the mission.
+This duration includes an allocation of 6 months for the transfer to the
+L-2 Lissajous orbit.

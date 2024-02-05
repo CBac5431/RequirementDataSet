@@ -1,0 +1,6 @@
+SGEN-110
+H/P
+Materials, which are in contact with each other, shall be compatible
+with each other. Compatibility shall be demonstrated by test if
+insufficient data is available from standard references or previous
+applications.

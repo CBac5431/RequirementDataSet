@@ -1,0 +1,12 @@
+SGEN-120
+H/P
+Materials shall have high resistance to stress corrosion cracking
+(SCC) for all structural applications but also for applications (like
+pretensioned springs or welded constructions which frequently include
+residual internal and assembly stresses) in which the materials are
+exposed for extended periods of time to tensile stresses in the
+terrestrial atmosphere or potentially corrosive environments. The
+requirement also applies for GSE handling and lifting devices for loads
+higher than 30 kg.
+Adequate resistance to SCC shall be verified in agreement with AD6-
+16.

@@ -1,0 +1,5 @@
+SINT-095
+P
+The spacecraft shall accommodate the Planck telescope and its
+reflectors defined in AD1-3 and AD2-2 and shall provide the resources
+to ensure that the performance requirements of Planck and the needs

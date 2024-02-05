@@ -1,0 +1,4 @@
+SPER-085
+H/P
+Cross strapping shall be incorporated in between chains of redundant
+units so that maximum overall reliability is achieved.

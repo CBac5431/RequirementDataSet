@@ -1,0 +1,5 @@
+SGEN-095
+H/P
+Materials shall not be flaking or dusting so that a high degree of
+cleanliness of the flight hardware can be achieved and maintained.
+This is also applicable to materials used on GSE.

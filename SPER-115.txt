@@ -1,0 +1,7 @@
+SPER-115
+H/P
+Single point failures, which cannot be eliminated from the design with
+reasonable effort (or fault tolerance requirements, which cannot be
+met) shall be summarised in a Single Point Failure/Critical Items List.
+They shall be subjected to formal approval by ESA on a case by case
+basis with a detailed retention rationale.

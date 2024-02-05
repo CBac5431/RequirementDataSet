@@ -1,0 +1,10 @@
+SFUN-015
+P
+The Planck Payload Module shall provide the following functions:
+- Provide the necessary interface (mechanical, optical, thermal and
+electrical) with the Planck Service Module
+- Accommodate the offset telescope
+- Accommodate the HFI and LFI instruments in accordance with the
+requirements and interface specification of the IID’s (AD4-5, AD4-
+6)
+- Provide the required thermal/stray light environment

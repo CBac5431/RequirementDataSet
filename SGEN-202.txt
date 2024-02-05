@@ -1,0 +1,5 @@
+SGEN-202
+H
+For the Herschel telescope, the optical subsystem transmission
+losses (as defined in AD2-1) shall be lower than 4.2% (TBC) over
+the full 80 - 670 μm range at the end of the nominal mission.

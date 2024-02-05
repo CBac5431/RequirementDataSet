@@ -1,0 +1,5 @@
+SINT-145
+H/P
+The design of the satellite and all operations and handling on the site
+shall be compliant with the safety regulations of the launch site (AD6-
+2).

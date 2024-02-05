@@ -1,0 +1,8 @@
+SINT-015
+H/P
+In addition to the margin specified in paragraph 5.1.4, the structural
+design of the Herschel and Planck spacecraft including the payload
+interfaces shall be able to meet its requirements if the mass of any
+particular payload unit is increased by 20% above the allocated values
+agreed in the IID’s part B, issue 2.0 (AD4-2, AD4-3, AD4-4, AD4-5,
+AD4-6).

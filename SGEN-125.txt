@@ -1,0 +1,6 @@
+SGEN-125
+H/P
+Metals which are in direct contact with each other shall not form a
+galvanic couple with a difference of more than 0.5 V Electro-Motive
+Force (EMF); in corrosive environments it shall not be more than 0.25
+V EMF.

@@ -1,0 +1,15 @@
+SGEN-145
+H/P
+The design of the spacecraft shall consider the need for accessibility
+and the methods to be employed for the removal of units, placement
+of test aids, for equipment requiring adjustment or maintenance with
+the aim of eliminating or minimising:
+- the possibility of injury to personnel
+- the possibility of damage to equipment or facility
+- the possibility of incorrect assembly
+- task complexity
+- use of special tools or equipment
+- use of non-standard hardware
+- design complexity
+- the need for special skills
+- the activity duration

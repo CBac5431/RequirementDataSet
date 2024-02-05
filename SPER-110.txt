@@ -1,0 +1,5 @@
+SPER-110
+H/P
+Compliance to the fault tolerance requirements, as given in section
+4.5, shall be verified by FMECA or by other suitable methods, which
+are subject to agreement with ESA.

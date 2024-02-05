@@ -1,0 +1,4 @@
+SINT-125
+H/P
+The spacecraft design shall be compatible with the relevant ground
+test facilities.

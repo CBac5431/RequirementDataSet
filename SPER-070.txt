@@ -1,0 +1,5 @@
+SPER-070
+H/P
+A failure of one piece of equipment (unit level) shall not cause failure
+of or damage to another piece of equipment or subsystem, including
+the scientific instruments.

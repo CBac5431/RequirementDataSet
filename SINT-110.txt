@@ -1,0 +1,7 @@
+SINT-110
+P
+The Planck spacecraft design shall permit the dump of 24 hours
+stored telemetry with the real time science and housekeeping
+telemetry and simultaneously upload of the mission timeline in less
+than 3 hours at the maximum distance from earth around L2 and with
+the Perth / New Norcia ground station.

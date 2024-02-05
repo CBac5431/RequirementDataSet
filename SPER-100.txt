@@ -1,0 +1,3 @@
+SPER-100
+H/P
+There shall be on-board failure detection capabilities

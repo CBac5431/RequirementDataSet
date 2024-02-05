@@ -1,0 +1,5 @@
+SGEN-185
+H/P
+The composite design shall be compatible with the cleanliness
+and contamination requirements given in the Product Assurance
+document (AD1-1) until the end of the nominal lifetime.

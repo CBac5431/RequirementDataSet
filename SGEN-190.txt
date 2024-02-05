@@ -1,0 +1,5 @@
+SGEN-190
+H/P
+The spacecraft and its items (like optical bench, telescope …)
+shall not contaminate the instruments and optical surfaces more
+than as specified in the following requirements

@@ -1,0 +1,5 @@
+SPER-075
+H/P
+Protected switching configurations employing separate “arm” and
+“active” operations shall be implemented whenever an unintended
+activation can lead to an operational hazard.

@@ -1,0 +1,5 @@
+SGEN-165
+H/P
+Items, which require adjustment, servicing or maintenance before
+launch, shall be accessible without removing any equipment from the
+spacecraft.

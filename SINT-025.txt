@@ -1,0 +1,5 @@
+SINT-025
+P
+The Planck spacecraft shall provide a mean power allocation of 1000
+W to the Planck payload during nominal scientific operations, including
+instrument margins.

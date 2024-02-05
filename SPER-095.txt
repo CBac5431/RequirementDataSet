@@ -1,0 +1,4 @@
+SPER-095
+H/P
+Provisions shall be made to prevent malfunction or elimination of
+redundant units by a common cause.

@@ -1,0 +1,6 @@
+SINT-100
+H/P
+The spacecraft design shall be compatible with the ground segment
+interfaces as defined in the Herschel / Planck Space/Ground Interface
+(RF link) Documents (AD3-1) and the Herschel / Planck Operation
+Interface Requirement Document (AD3-2).

@@ -1,0 +1,6 @@
+SINT-160
+H/P
+The telemetry and telecommand standards applied to the satellites
+shall be compatible with those used on the launch site in order to
+perform the launch tests and to monitor the satellite during the launch
+preparation.

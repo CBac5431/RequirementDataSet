@@ -1,0 +1,8 @@
+SPER-010
+P
+For the Planck mission , the Planck spacecraft shall have a nominal
+lifetime of at least 21 months from launch till the end of mission .
+This duration shall allow two full sky surveys ( with a coverage of at
+least 95% of the full sky) at the operational Lissajous orbit around L-2
+, and includes an allocation of 6 months for the transfer to the L-2
+Lissajous orbit.

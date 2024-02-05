@@ -1,0 +1,5 @@
+SINT-010
+P
+The Planck spacecraft shall provide a mass allocation of 480 kg for
+the baseline payload accommodation as defined in IID Part B (AD4-5
+and AD4-6) including instrument coolers and margins.

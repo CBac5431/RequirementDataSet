@@ -1,0 +1,5 @@
+SINT-040
+H
+The Herschel spacecraft shall provide the necessary resources for
+the average acquisition of at least 130 Kbps science telemetry over
+24 hours.

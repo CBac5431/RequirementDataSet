@@ -1,0 +1,4 @@
+SINT-030
+H/P
+The spacecraft shall provide peak power for the instruments as
+defined in the IID’s Part B (AD4-2, AD4-3, AD4-4, AD4-5, AD4-6).

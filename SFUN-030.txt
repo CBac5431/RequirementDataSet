@@ -1,0 +1,8 @@
+SFUN-030
+P
+The Planck Service Module shall provide the following specific
+functions in addition to the above mentioned:
+− support the Planck Payload Module
+− interface with the launcher
+− support the Herschel spacecraft according to the selected launch
+configuration.

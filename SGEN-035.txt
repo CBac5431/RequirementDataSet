@@ -1,0 +1,6 @@
+SGEN-035
+H/P
+The Herschel and Planck spacecraft design shall allow for maximum
+autonomy during integration and testing of the Herschel Payload
+Module, the Herschel Telescope Assembly, the Planck Payload
+Module and the Service Modules.

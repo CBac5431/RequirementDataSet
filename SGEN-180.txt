@@ -1,0 +1,5 @@
+SGEN-180
+H/P
+The spacecraft and its constituting modules/assemblies and subassemblies
+shall survive all environmental testing without the need for
+refurbishment.

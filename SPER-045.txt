@@ -1,0 +1,7 @@
+SPER-045
+H/P
+The spacecraft must be able to execute the commanded manoeuvres.
+The magnitude error of the Delta-V manoeuvre shall not exceed 1%
+for manoeuvres of more than 10 m/s and shall not exceed 5% for
+smaller manoeuvres (including the effects of attitude accuracy) of the
+commanded magnitude at 95% confidence level.

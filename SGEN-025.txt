@@ -1,0 +1,12 @@
+SGEN-025
+P
+The Planck S/C coordinate system (OPSC, XPSC, YPSC, ZPSC) is defined
+as follows:
+- the origin OPSC is in the centre of the Planck/Launcher separation
+plane.
+- the XPSC-axis is normal to the Planck/Launcher separation plane,
+positive towards the payload.
+- the ZPSC-axis is normal to the X-axis, in the symmetry plane of the
+telescope, with the positive direction on the concave side of the
+telescope.
+- the YPSC:-axis completes the right handed system.

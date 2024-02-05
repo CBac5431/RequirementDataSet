@@ -1,0 +1,4 @@
+SPER-030
+H
+For Herschel , propellant for orbit maintenance, attitude control and
+momentum management shall be dimensioned for 4.5 years.

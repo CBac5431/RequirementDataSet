@@ -1,0 +1,5 @@
+SGEN-150
+H/P
+It shall be possible to access or remove equipment if it requires
+maintenance control, with minimum disturbance to and interference
+with spacecraft or payload.

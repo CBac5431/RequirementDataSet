@@ -1,0 +1,8 @@
+SGEN-105
+H/P
+Materials shall be resistant to the radiation to which they will be
+exposed during their operational lifetime. The contractor shall
+determine what the anticipated radiation environment will be for
+materials used in various locations and as necessary demonstrate by
+appropriate testing that the properties shall not degrade below
+acceptable limits for significant properties.

@@ -1,0 +1,5 @@
+SINT-140
+H/P
+The spacecraft design shall be such as to allow for transportation of
+each complete spacecraft as well as the separate modules by
+standard commercial means.

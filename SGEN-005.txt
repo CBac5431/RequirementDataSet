@@ -1,0 +1,5 @@
+SGEN-005
+H/P
+Both spacecraft shall optimise as much as possible the commonality
+between the Herschel and Planck components and interfaces in order
+to reduce the costs.

@@ -1,0 +1,11 @@
+SGEN-090
+H/P
+Materials which are not used inside pressurised volumes on the
+spacecraft shall have low outgassing properties as determined by test
+method according to AD6-13:
+- Total Mass Loss (TML) < 1%
+- Collected Volatile Condensable Material (CVCM) < 0.1%
+In case of materials used in the vicinity of critical (optical) elements,
+the more stringent requirement applies:
+- TML < 0.10%
+- CVCM < 0.01 %

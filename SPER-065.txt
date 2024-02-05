@@ -1,0 +1,8 @@
+SPER-065
+P
+The Amplitude Spectral Density ( ASD ) at the bolometer ( HFI ) or
+cold LNA ( LFI ) of any signal due to fluctuating thermal emission from
+a S/C element that couples radiatively into payload detectors , shall be
+as specified below for each of the five defined individual frequencies ,
+taking into account the power transfer function between the radiating
+source and the detectors .

@@ -1,0 +1,8 @@
+SINT-035
+H/P
+The thermal design of the spacecraft shall be able to meet its
+requirements for the following increases or decreases in the power
+dissipation of any particular payload unit with respect to the values
+agreed in the IID’s Part B (AD4-2, AD4-3, AD4-4, AD4-5, AD4-6):
+- Cold payload units below ambient temperature 20 %
+- Warm payload units: 10 %

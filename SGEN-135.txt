@@ -1,0 +1,5 @@
+SGEN-135
+H/P
+Materials that are nutrients for fungus shall not be used when their use
+can be avoided. Where used and not hermetically sealed, these
+materials shall be treated with a suitable fungicide agent.

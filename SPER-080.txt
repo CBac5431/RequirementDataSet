@@ -1,0 +1,4 @@
+SPER-080
+H/P
+Protection systems shall be intrinsically fail safe and shall be capable
+of being enabled and disabled by ground command.

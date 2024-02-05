@@ -1,0 +1,11 @@
+SGEN-140
+H/P
+Materials which may constitute a safety hazard or can cause
+contamination shall not be used without specific approval by ESA
+(RFW). Examples of such materials are:
+- B Beryllium-Oxide
+- Cadmium
+- Zinc
+- Mercury
+- Radioactive materials
+- PVC

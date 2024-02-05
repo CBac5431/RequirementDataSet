@@ -1,0 +1,5 @@
+SINT-055
+H
+The OTF shall be made available in the TM (required for instrument
+data processing). The OTF shall indicate the time at which the OTF
+conditions start and end .

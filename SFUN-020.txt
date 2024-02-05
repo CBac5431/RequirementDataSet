@@ -1,0 +1,12 @@
+SFUN-020
+H/P
+Each Service Module shall provide the following functions:
+- Structural support and SVM thermal control
+- on board storage of TM (SSR)
+- control and measurement of satellite attitude
+- satellite orbit control
+- electrical power generation, conditioning, storage and distribution
+- radio frequency transmission/reception with the ground
+- data handling for distribution of ground and on-board commands
+and sampling/formatting of telemetry data
+- distribution of all electrical signals through an SVM harness.

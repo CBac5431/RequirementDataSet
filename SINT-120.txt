@@ -1,0 +1,4 @@
+SINT-120
+H/P
+The spacecraft shall be compatible with a maximum duration of 6
+hours of daily contact with the Kourou ground station type.

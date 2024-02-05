@@ -1,0 +1,5 @@
+SGEN-160
+H/P
+Items requiring integration for safety, logistical or life reasons, close to
+the launch, shall be accessible without removing any equipment from
+the spacecraft.

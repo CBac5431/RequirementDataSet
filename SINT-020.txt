@@ -1,0 +1,5 @@
+SINT-020
+H
+The Herschel spacecraft shall provide a mean power allocation of
+550 W to the Herschel payload during nominal scientific operations,
+including instrument margins.

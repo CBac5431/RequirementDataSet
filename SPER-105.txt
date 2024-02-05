@@ -1,0 +1,7 @@
+SPER-105
+H/P
+Event packets containing the details of any reconfiguration and the
+exact time of occurrence shall be included in the housekeeping
+telemetry and be stored on-board as necessary for later transmission
+to the ground. These event packets shall also be available to other
+on-board applications.

@@ -1,0 +1,11 @@
+SPER-060
+P
+The system rejection at the detectors for Sun, Earth, Moon at worst
+case locations shall be , at least :
+30 GHz : -91 dB , -78 dB and -71 dB respectively.
+100 GHz ( HFI ) : -91.5 dB ( -99 dB ), -78.5 dB ( -86 dB ) and -71.5 dB
+( -73 db ) respectively
+353 GHz : -92 dB ( -108 dB ), -79 dB ( -95 dB ) and -72 dB ( -81 dB )
+respectively.
+857 GHz : -98 dB ( -122 dB ), -85 dB ( -109 dB ) and -78 dB ( -95 dB )
+respectively.

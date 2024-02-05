@@ -1,0 +1,4 @@
+SINT-080
+H/P
+28V bus regulated and MIL-1553B standard shall be the electrical
+interface types used for the instruments.

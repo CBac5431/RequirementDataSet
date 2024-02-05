@@ -1,0 +1,5 @@
+SINT-065
+P
+For the Planck mission the spacecraft shall deliver the precise instant
+(± 1.5msec) at which the phase of the spin can be referenced in
+inertial space.

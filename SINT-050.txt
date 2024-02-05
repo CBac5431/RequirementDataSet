@@ -1,0 +1,4 @@
+SINT-050
+H
+For the Herschel Mission, a “On Target Flag” (OTF) shall be
+generated when the commanded target has been acquired.

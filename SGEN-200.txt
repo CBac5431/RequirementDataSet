@@ -1,0 +1,8 @@
+SGEN-200
+H
+For the Herschel telescope, the optical subsystem transmission
+losses (as defined in AD2-1) shall be lower than 3.5% (TBC) over
+the full 80 - 670 μm range at the time of cryostat cover opening inorbit.
+Appropriate and timely analyses and measurement
+verifications shall be undertaken throughout the programme to
+give maximum confidence that this performance will be achieved.

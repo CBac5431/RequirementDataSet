@@ -1,0 +1,11 @@
+SGEN-015
+H
+The Herschel S/C coordinate system (OHSC, XHSC, YHSC, ZHSC) is
+defined as follows:
+- the origin OHSC is at the centre of the Herschel/Launcher separation
+plane.
+- the XHSC-axis is normal to the Herschel/Launcher separation plane,
+positive towards the payload.
+- the ZHSC-axis is normal to the X-axis such that nominally Z is pointing
+positive towards the sun.
+- the YHSC-axis completes the right handed system.

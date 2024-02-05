@@ -1,0 +1,5 @@
+SGEN-085
+H/P
+The selection of mechanical parts shall be justified by analyses,
+similarity, and if necessary, appropriate tests and their qualification for
+the required application shall be demonstrated.

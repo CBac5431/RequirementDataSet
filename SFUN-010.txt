@@ -1,0 +1,12 @@
+SFUN-010
+H
+The Herschel Payload Module shall:
+- Provide the necessary interfaces (mechanical, optical and
+electrical) with the Agency’s provided Telescope and other
+elements of the spacecraft.
+- Accommodate the focal plane units (FPU) of the instruments, the
+Local Oscillator Unit (LOU) of HIFI and the Buffer Amplifier Unit
+(BOLA) of PACS in accordance with the requirements and interface
+specification of the IID’s Part B (AD4-2, AD4-3, AD4-4)
+- Provide to the instruments FPU's, the required thermal
+environment, through a cryogenic subsystem

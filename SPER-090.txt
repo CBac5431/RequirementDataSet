@@ -1,0 +1,4 @@
+SPER-090
+H/P
+Hot redundancy shall be provided for functions, which could result in
+loss of mission if failing (e.g. receivers).

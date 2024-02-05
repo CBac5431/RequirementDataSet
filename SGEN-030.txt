@@ -1,0 +1,12 @@
+SGEN-030
+H/P
+Each spacecraft shall be configured in a modular way, with:
+- each respective Service Module (SVM), which provides the
+spacecraft subsystems working in a normal temperature
+environment,
+- the Herschel Payload Module (PLM), including the cold focal plane
+units of the scientific instruments and the cryogenic subsystem as
+well as some warm payload equipment,
+- the Herschel Telescope,
+- the Planck Payload Module consisting of the telescope with the
+instruments and all necessary equipment for a separate integration.

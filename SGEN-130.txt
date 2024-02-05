@@ -1,0 +1,7 @@
+SGEN-130
+H/P
+As far as practicable, materials and mechanical parts shall be nonmagnetic.
+In case magnetic material must be used for a particular
+function, the magnetic characteristics of the part will have to be
+determined and depending on the effects on system level, magnetic
+compensation methods might have to be applied.

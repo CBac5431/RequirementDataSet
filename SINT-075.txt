@@ -1,0 +1,4 @@
+SINT-075
+H/P
+The time correlation between the attitude information and science data
+shall be better than 0.5 ms.

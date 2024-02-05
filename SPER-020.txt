@@ -1,0 +1,6 @@
+SPER-020
+H/P
+The completely integrated Herschel and Planck spacecraft shall permit
+storage in a controlled facility before launch, prior to start of transport
+to the launch site of 24 months. If required, helium refilling(s)/topup(
+s) may be envisaged during this period.

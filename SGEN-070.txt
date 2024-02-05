@@ -1,0 +1,4 @@
+SGEN-070
+H/P
+The knowledge accuracy of the satellite mass shall be better than +/-
+1% and of the moment of inertia shall be better than +/- 5%.

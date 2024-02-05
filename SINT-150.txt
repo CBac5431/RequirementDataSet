@@ -1,0 +1,4 @@
+SINT-150
+H/P
+The Herschel and Planck spacecraft shall be compatible with a launch
+on Ariane 5.

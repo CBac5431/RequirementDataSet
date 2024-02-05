@@ -1,0 +1,4 @@
+SINT-070
+P
+The spin reference message shall be made available in the TM
+(required for instrument data processing).

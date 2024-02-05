@@ -1,0 +1,7 @@
+SGEN-210
+H/P
+The spacecraft shall provide means to prevent contamination of
+the telescopes and instruments in-orbit during the initial
+(outgassing) phase and during the thruster firings.SGEN-060
+H/P
+The Delta-V requirements shall be as defined in the table below:

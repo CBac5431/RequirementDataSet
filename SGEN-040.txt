@@ -1,0 +1,4 @@
+SGEN-040
+P
+The Planck spacecraft spin axis shall be the principal axis of maximum
+moment of inertia.

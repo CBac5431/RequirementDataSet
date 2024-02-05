@@ -1,0 +1,5 @@
+SGEN-045
+P
+For the Planck spacecraft, the stabilisation inertia ratio, expressed as
+lambda = 1+sqrt[(lx/lz-1) (lx/ly-1)] with lz<ly<lx, taking into account
+satellite inertia uncertainties shall be higher than 1.05.

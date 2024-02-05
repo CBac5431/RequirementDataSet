@@ -1,0 +1,4 @@
+SINT-115
+H/P
+Kourou ground stations type will be used during commissioning, initial
+orbit phase and in case of emergency.
