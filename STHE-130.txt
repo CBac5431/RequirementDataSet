@@ -1,0 +1,6 @@
+STHE-130
+H/P
+The thermal design shall minimise the need for ground operational
+testing and subsystem level thermal vacuum tests. It shall not impose
+unacceptable constraints on other spacecraft elements nor on mission
+operation.

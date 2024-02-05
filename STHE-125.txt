@@ -1,0 +1,6 @@
+STHE-125
+H/P
+The thermal design shall be such that easy repair and minor changes
+in design are possible through simple removal and replacement of
+insulation blankets, foils, heaters and/or by in-place refurbishment of
+thermal control coatings and surface treatments.

@@ -1,0 +1,7 @@
+STHE-105
+H/P
+The thermal control subsystem must be as simple as possible. MLI
+and radiators with thermal coatings control the Sun, Earth and albedo
+effects and the internal heat distribution and rejection. Internally,
+thermal coatings and conductive paths will be used to control the
+temperature of critical units.

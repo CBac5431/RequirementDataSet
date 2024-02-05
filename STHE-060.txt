@@ -1,0 +1,7 @@
+STHE-060
+H/P
+The thermal control subsystem shall use the inherent or designed-in
+thermal properties of the structure and units, a minimum of additional
+thermal control components, and the satellite geometry to maintain
+temperature levels and distributions within the specified limits for
+allowable satellite orientations.

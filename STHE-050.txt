@@ -1,0 +1,5 @@
+STHE-050
+H/P
+For Cryogenic temperatures, the unit temperature ranges shall be
+tailored to the relevant cryogenic range. The proposed ranges shall be
+subject to ESA approval.

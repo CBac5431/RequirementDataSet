@@ -1,0 +1,4 @@
+STHE-095
+H/P
+The thermal design shall take into account the degradation of the
+surface properties (α, ε) during the mission lifetime.

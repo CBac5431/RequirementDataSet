@@ -1,0 +1,5 @@
+STHE-055
+H/P
+The TCS shall ensure that the TRP temperatures are kept within their
+TCS design ranges for all phases of the mission with all energy
+boundary conditions specified or derived from this specification.

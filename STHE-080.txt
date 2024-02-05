@@ -1,0 +1,9 @@
+STHE-080
+H/P
+The TCS shall ensure that all equipment temperatures remain within
+the thermal design limits defined for each unit, during all phases of the
+mission, including ground testing. If applicable, it shall also ensure the
+required temperature stability for equipment. It shall maintain the
+structural parts with the required temperatures and temperature
+stabilities such that the necessary alignments are met between units
+involved in the pointing or alignment required performances.

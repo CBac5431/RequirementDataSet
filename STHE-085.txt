@@ -1,0 +1,5 @@
+STHE-085
+H/P
+The thermal design shall be compatible with all solar aspect angles
+and albedo and any radiative inputs, which are foreseen during all
+mission phases.

@@ -1,0 +1,4 @@
+SCIF-020
+H/P
+Herschel and Planck spacecraft shall use a standard Ariane 5
+interface as specified in AD6-1.

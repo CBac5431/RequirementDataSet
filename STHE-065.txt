@@ -1,0 +1,5 @@
+STHE-065
+H/P
+In-flight equipment temperatures shall be monitored by means of
+sensors. These sensors shall provide information about spacecraft
+health and shall serve as a reference for heater control.

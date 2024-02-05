@@ -1,0 +1,6 @@
+STHE-070
+H
+For the Herschel cryogenic subsystem all thermal requirements as
+specified in IID’s Part B for the Focal Plane Units and any other
+payload or spacecraft units requiring cryogenic cooling for at least the
+nominal lifetime until all helium has been consumed shall be met.

@@ -1,0 +1,4 @@
+SCIF-005
+H
+All interfaces between Service Module, Herschel Payload Module, and
+Herschel Telescope shall be kept simple and easily manageable.

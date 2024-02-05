@@ -1,0 +1,7 @@
+STHE-150
+H/P
+The TCS design shall allow easy access to the units and equipments.
+All parts belonging to the TCS shall stay within their allocated volume
+envelopes. The MLI design shall ensure a minimum clearance of 20
+mm between the MLI and any moving part. If the MLI is attached to a
+moving part, the clearance shall be of 35 mm at least.

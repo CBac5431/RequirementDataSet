@@ -1,0 +1,5 @@
+STHE-145
+H/P
+Use of material with stable thermo-optical properties is required. Any
+deviation shall be adequately justified and the ageing law assumptions
+shall be substantiated

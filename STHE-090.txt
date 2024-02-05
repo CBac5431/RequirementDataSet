@@ -1,0 +1,4 @@
+STHE-090
+H/P
+The TCS shall ensure survival of spacecraft during eclipses from
+launch until end of mission with minimum use of heater power.

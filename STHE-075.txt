@@ -1,0 +1,4 @@
+STHE-075
+P
+The thermal design shall comply with the requirements of the Planck
+IID’s Part B.

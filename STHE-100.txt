@@ -1,0 +1,4 @@
+STHE-100
+H/P
+The margins for unit qualification with respect to the TCS design
+temperature range shall be at least 10°C on both sides.

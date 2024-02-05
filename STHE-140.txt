@@ -1,0 +1,4 @@
+STHE-140
+H/P
+Grouping of heaters circuits shall be implemented whenever feasible
+in order to minimise the total number of needed ON-OFF commands.

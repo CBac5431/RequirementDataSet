@@ -1,0 +1,6 @@
+STHE-120
+H/P
+The thermal control subsystem design shall incorporate sufficient
+flexibility to accommodate foreseeable changes in layout, power
+dissipation (amount and location), mission requirements and required
+temperature ranges.

@@ -1,0 +1,6 @@
+STHE-135
+H/P
+The thermal design shall be such that the spacecraft can be
+developed, integrated and tested at module level, with minimum
+interaction from the other modules. The modules shall therefore be
+thermally de-coupled as much as possible.

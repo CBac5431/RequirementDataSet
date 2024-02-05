@@ -1,0 +1,4 @@
+STHE-098
+H/P
+The margins for unit acceptance with respect to the TCS design
+temperature range shall be at least 5°C on both sides.

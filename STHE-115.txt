@@ -1,0 +1,6 @@
+STHE-115
+H/P
+The TCS shall be protected against any single point of failure of any
+item of the chain of the temperature measurements by appropriate
+redundancy. The TCS shall be design to minimise the temperature
+fluctuations of the TRP.

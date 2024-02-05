@@ -1,0 +1,5 @@
+SCIF-015
+H/P
+The mechanical interfaces shall be consistent with the structural,
+thermal and alignment/alignment stability requirements and shall allow
+for an easy and repeatable assembly of the modules.

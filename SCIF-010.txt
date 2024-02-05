@@ -1,0 +1,4 @@
+SCIF-010
+P
+All interfaces between Service Module and the Planck Payload
+Module shall be kept simple and easily manageable.

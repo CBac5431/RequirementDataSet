@@ -1,0 +1,4 @@
+STHE-110
+H/P
+Heaters shall be used when necessary. All heaters shall be capable of
+being commanded from ground.
