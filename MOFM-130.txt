@@ -1,0 +1,4 @@
+MOFM-130
+H/P
+No nominal operation shall require the deactivation of the on-board
+protection system.
