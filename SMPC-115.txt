@@ -1,0 +1,4 @@
+SMPC-115
+H/P
+Transient voltage excursions due to step load changes shall not
+interfere with the operation of other subsystems or experiments.

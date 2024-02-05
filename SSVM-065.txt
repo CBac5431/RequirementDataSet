@@ -1,0 +1,4 @@
+SSVM-065
+H/P
+Thermo-elastic deformation of the SVM structure shall not cause
+unacceptable misalignment between reference axes and sensors.

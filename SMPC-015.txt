@@ -1,0 +1,6 @@
+SMPC-015
+H/P
+In case there is no solar array power or if its power is not sufficient to
+meet the scientific instruments and/or spacecraft power demand, the
+required (additional) power shall be provided by the batteries of the
+PCS.

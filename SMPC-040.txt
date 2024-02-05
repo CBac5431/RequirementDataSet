@@ -1,0 +1,6 @@
+SMPC-040
+H/P
+The subsystem shall provide adequate status monitoring and
+telecommand interfaces necessary to operate the subsystem and
+permit evaluation of its performance during ground testing and in-flight
+operations.

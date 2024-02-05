@@ -1,0 +1,6 @@
+SMPC-105
+H/P
+The power regulation shall be such that the transition and sharing
+between solar array power mode and battery power mode is
+performed in a continuous way without main bus voltage variations
+being outside the specified tolerance range.

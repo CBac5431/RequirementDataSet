@@ -1,0 +1,4 @@
+SPLM-140
+H
+The cryocover shall, once opened, be protected against unintended
+closure and bouncing back.

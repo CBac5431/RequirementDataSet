@@ -1,0 +1,6 @@
+SCGN-005
+H/P
+The spacecraft structure shall provide the lifting points and
+transportation interfaces for handling, integration, test and
+transportation of spacecraft; this applies for all spacecraft integration
+phases.

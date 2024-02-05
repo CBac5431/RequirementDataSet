@@ -1,0 +1,4 @@
+SPLA-040
+P
+The aperture shall comply with the telescope optical interface
+requirements as specified in AD1-3.

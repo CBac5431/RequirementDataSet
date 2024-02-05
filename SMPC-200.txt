@@ -1,0 +1,5 @@
+SMPC-200
+H
+The Herschel power budget shall include an ESA reserve of 100 W ,
+except for the launch phase ( from lift-off to separation ) during which
+a reserve of 30 % shall be included .

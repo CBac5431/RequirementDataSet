@@ -1,0 +1,4 @@
+SPLM-055
+H
+It shall be possible to fill the main tank with superfluid helium at 1.6 K
+to no less than 98% of full capacity.

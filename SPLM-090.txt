@@ -1,0 +1,6 @@
+SPLM-090
+H
+In orbit helium exhaust shall be made such that, during the routine
+scientific observation phase, the resulting torque shall compensate for
+the solar pressure disturbance in order to minimise the overall
+increase of angular momentum.

@@ -1,0 +1,5 @@
+SPLM-065
+H
+To obtain the on-ground autonomy, an auxiliary reservoir with He I at
+atmospheric pressure shall be used. It shall be possible to fill this
+reservoir through the payload access doors in the Ariane 5 fairing.

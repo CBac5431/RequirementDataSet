@@ -1,0 +1,4 @@
+SMPC-155
+H/P
+The 28 V main bus shall be distributed through current limiters and
+switches according to the interface requirements.

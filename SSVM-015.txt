@@ -1,0 +1,4 @@
+SSVM-015
+H/P
+Each SVM structure shall be compliant with the overall spacecraft
+stiffness requirements as specified in Section 5.6.

@@ -1,0 +1,4 @@
+SMPC-150
+H/P
+No single point failure shall endanger full mission performance or
+cause permanent damage to any essential load.

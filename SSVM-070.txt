@@ -1,0 +1,4 @@
+SSVM-070
+H/P
+The structure shall be made of materials fulfilling the requirements of
+Section 5.1.

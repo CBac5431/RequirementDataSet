@@ -1,0 +1,4 @@
+SSVM-040
+H/P
+The structure design shall be such as to provide simple load paths and
+simple interfaces.

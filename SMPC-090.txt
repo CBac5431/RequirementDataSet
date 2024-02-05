@@ -1,0 +1,4 @@
+SMPC-090
+H/P
+The power conditioning shall be designed such that a regulated 28 V
+DC Main Bus is provided to all users.

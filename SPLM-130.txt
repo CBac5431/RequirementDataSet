@@ -1,0 +1,7 @@
+SPLM-130
+H
+The beam of the Local Oscillator of the HIFI will enter the cryostat via
+windows in the CVV and radiation shields. The design of these
+windows shall be in accordance with the instrument requirements as
+specified in the HIFI IID part B (AD4-2) and such that the overall heat
+input through these windows is minimised.

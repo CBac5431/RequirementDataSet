@@ -1,0 +1,8 @@
+SMPC-055
+H/P
+The subsystem shall provide sufficient telecommands to:
+- Meet scientific instrument and spacecraft subsystem switching,
+reconfiguration and autonomy requirements
+- Select between redundant equipment
+- Override the autonomous and protection functions by direct
+ground command.

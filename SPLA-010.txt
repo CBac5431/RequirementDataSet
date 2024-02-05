@@ -1,0 +1,4 @@
+SPLA-010
+P
+The Planck Payload Module structure shall provide the interface to the
+SVM.

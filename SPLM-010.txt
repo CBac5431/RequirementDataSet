@@ -1,0 +1,6 @@
+SPLM-010
+H
+The cryostat vacuum vessel shall provide the load path between the
+SVM/PLM interface structure and the PLM/Telescope and PLM/
+Sunshade interface structures and shall provide the mounting
+interfaces specified above.

@@ -1,0 +1,6 @@
+SPLM-060
+H
+The cryostat shall allow for an on-ground autonomy period of 6 days
+with the helium tank filled in the above conditions and the helium
+temperature after 6 days below 2.10 K and instruments being non
+operational.

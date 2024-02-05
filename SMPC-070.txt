@@ -1,0 +1,6 @@
+SMPC-070
+H/P
+The PCS equipment shall be capable of operating continuously under
+all operational conditions of the mission including contingency
+situations. No damage or degradation shall result from intermittent or
+cycled operation.

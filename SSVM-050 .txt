@@ -1,0 +1,5 @@
+SSVM-050 
+H/P
+Fastener selection shall be dictated by structural, electrical and
+thermal considerations. Fastener types shall be metric. All threaded
+parts shall be positively locked.

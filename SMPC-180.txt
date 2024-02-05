@@ -1,0 +1,6 @@
+SMPC-180
+H/P
+Full protection against short circuit or overload shall be provided by
+limiting the maximum current in any supply line . Protection shall be
+implemented via electronic protection devices ( e.g. LCL , FCL ,
+electronic fuses ) . Usage of conventional fuses shall be avoided .

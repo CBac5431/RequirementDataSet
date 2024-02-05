@@ -1,0 +1,6 @@
+SPLM-040
+H
+During pre-launch, launch and in-orbit the cryostat main bath
+temperature shall never exceed 2.10K. However, transport capability
+of the cryostat in the Herschel PLM or the spacecraft container in its
+superfluid status is not required.

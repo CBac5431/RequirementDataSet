@@ -1,0 +1,5 @@
+SMPC-152
+H/P
+An automatic protection shall be provided to ensure that the power
+subsystem shall be able to recover from any malfunction in any load or
+from any abnormal spacecraft mode of operation.

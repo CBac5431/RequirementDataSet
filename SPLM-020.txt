@@ -1,0 +1,4 @@
+SPLM-020
+H
+The PLM shall provide the possibility to close the beam entrance
+aperture for ground operations and during the initial in-orbit period.

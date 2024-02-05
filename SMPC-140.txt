@@ -1,0 +1,10 @@
+SMPC-140
+H/P
+The PCS shall contain all electronics necessary:
+- to provide electrical power from the solar array and/or batteries to
+all users (SVM and PLM)
+- to charge, discharge and, if needed, recondition all batteries
+- to allow for the capability of automatic and commanded control of
+the operation of the subsystem
+- for switching and protection of the experiments and spacecraft
+subsystems

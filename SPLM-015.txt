@@ -1,0 +1,4 @@
+SPLM-015
+H
+The PLM shall provide a baffled unvignetted optical path from the
+entrance of the beam into the PLM to the Focal Plane Units.

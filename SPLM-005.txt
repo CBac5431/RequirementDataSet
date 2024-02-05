@@ -1,0 +1,8 @@
+SPLM-005
+H
+The PLM / cryostat shall accommodate the focal plane units and shall
+provide the necessary cryogenic cooling to the instruments. It shall be
+capable of maintaining the values specified in the IID’s Part B (AD4-2,
+AD4-3, AD4-4) for focal plane unit absolute temperature, temperature
+stability and temperature gradients during the Commissioning,
+Calibration and Operational phases.

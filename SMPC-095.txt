@@ -1,0 +1,4 @@
+SMPC-095
+H/P
+The Main Bus voltage regulation requirement shall be in accordance
+with the requirements of PSS-02-10 (AD6-9)

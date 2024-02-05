@@ -1,0 +1,7 @@
+SMPC-130
+H/P
+Battery selection and design, the number of discharge cycles, the
+operating temperature and temperature gradient and the battery
+charge / discharge management shall ensure fulfilment of the satellite
+power requirements to be compliant with the battery depth of
+discharge requirements.

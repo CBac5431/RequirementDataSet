@@ -1,0 +1,5 @@
+SPLM-180
+H
+During launch and during all ground operations including transport, the
+cryocover shall be properly restrained to avoid excessive loads or
+damage by contact or excessive amplification of vibration.

@@ -1,0 +1,4 @@
+SPLM-100
+H
+The accommodation and alignment of the Focal Plane Units shall
+meet the requirements as specified in the IID’s (AD4-1 to AD4-4).

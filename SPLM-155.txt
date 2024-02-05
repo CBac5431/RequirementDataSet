@@ -1,0 +1,4 @@
+SPLM-155
+H
+The cryocover in its open position shall be taken into account in
+straylight and thermal analysis.

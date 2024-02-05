@@ -1,0 +1,4 @@
+SMPC-125
+H/P
+No undesirable operating mode shall occur in the event of failure in
+other subsystems (including harness) or in one or more experiments.

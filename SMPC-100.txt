@@ -1,0 +1,3 @@
+SMPC-100
+H/P
+The Main Bus impedance shall be in accordance with AD6-9.

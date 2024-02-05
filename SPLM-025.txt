@@ -1,0 +1,4 @@
+SPLM-025
+H
+The shipment of PLM models and of the complete satellite in "cold
+condition" shall be possible.

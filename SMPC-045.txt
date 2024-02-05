@@ -1,0 +1,4 @@
+SMPC-045
+H/P
+Sufficient telemetry parameters shall be assigned such that the power
+available and requested can be established.

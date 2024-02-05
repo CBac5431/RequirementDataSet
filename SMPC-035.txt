@@ -1,0 +1,5 @@
+SMPC-035
+H/P
+The subsystem shall provide adequate failure tolerance and protection
+circuitry to avoid failure propagation and to ensure recovery from any
+malfunction within the subsystem and/or load failure.

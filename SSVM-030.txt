@@ -1,0 +1,4 @@
+SSVM-030
+H/P
+The SVM structure shall comply with the mechanical design
+verification requirements as given in Section 5.7.1.

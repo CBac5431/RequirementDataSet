@@ -1,0 +1,4 @@
+SPLA-035
+P
+The accommodation and alignment of the Focal Plane Unit shall meet
+the requirements as specified in the IIDs (AD4-1, AD4-5, AD4-6).

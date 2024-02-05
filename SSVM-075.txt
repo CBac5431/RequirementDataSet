@@ -1,0 +1,4 @@
+SSVM-075
+P
+The design of the Planck SVM shall minimise the thermal transients
+and the periodic thermal variations into the Planck PLM.

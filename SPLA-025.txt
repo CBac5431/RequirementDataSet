@@ -1,0 +1,4 @@
+SPLA-025
+P
+In operational orbit, the thermal environment of the Planck Payload
+Module shall be as defined in IID’s (AD4-1, AD4-5, AD4-6).

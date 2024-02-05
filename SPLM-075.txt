@@ -1,0 +1,4 @@
+SPLM-075
+H
+The main tank shall be equipped with heaters to enable depletion
+within two days during ground operations.

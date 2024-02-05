@@ -1,0 +1,5 @@
+SSVM-020
+H/P
+Each SVM structure shall be compliant with the strength requirements
+as specified in Section 5.6. It shall show positive margins of safety for
+the specified design loads with the specified safety factors.

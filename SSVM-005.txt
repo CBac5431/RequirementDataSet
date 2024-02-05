@@ -1,0 +1,4 @@
+SSVM-005
+H
+The Herschel SVM structure shall provide the structural support to
+carry the Herschel Payload Module (PLM).

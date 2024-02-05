@@ -1,0 +1,5 @@
+SPLM-095
+H
+In operational orbit, the temperature of the helium bath shall remain at
+the necessary temperature to provide proper cooling to the
+instruments as defined in the IID’s (AD4-1 to AD4-4).

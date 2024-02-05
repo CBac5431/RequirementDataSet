@@ -1,0 +1,6 @@
+SMPC-175
+H/P
+The batteries and their regulator units shall be functionally one failure
+tolerant up to the input of the power control/regulation unit, including
+failures in power transmission elements such as connectors, harness,
+etc.

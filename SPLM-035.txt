@@ -1,0 +1,6 @@
+SPLM-035
+H
+The cryostat and its internal insulation shall meet the specified
+nominal lifetime and temperature requirements given in relevant
+IIDB’s. The amount of cryogen shall be sized accordingly and shall
+include a margin of 15%.

@@ -1,0 +1,7 @@
+SPLM-135
+H
+Once in orbit, the cryocover shall be opened by a fully redundant
+mechanism(s) with adequate margins of safety against worst case
+torques/forces. Only one in-orbit opening operation is foreseen and
+such an opening shall be possible with any temperature of the
+mechanism(s) from ambient down to operational temperature.

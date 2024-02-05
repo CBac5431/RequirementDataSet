@@ -1,0 +1,3 @@
+SSVM-060
+H/P
+The SVM structure shall not disturb the field of view of optical sensors.

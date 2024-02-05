@@ -1,0 +1,4 @@
+SMPC-170
+H/P
+Power pulses required for firing of pyro's (if applicable) and release of
+deployables shall be supplied by the batteries.

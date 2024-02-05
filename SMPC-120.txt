@@ -1,0 +1,4 @@
+SMPC-120
+H/P
+No single component failure shall cause an over voltage or permit
+short circuit on the main bus.

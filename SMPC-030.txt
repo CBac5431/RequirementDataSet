@@ -1,0 +1,4 @@
+SMPC-030
+H/P
+The change of state of all pyrotechnically initiated mechanisms shall
+be confirmed by an end-effect monitor and reported in the telemetry.

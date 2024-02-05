@@ -1,0 +1,3 @@
+SPLA-45
+P
+The FOV of the instruments shall be unobstructed.

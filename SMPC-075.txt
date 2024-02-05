@@ -1,0 +1,4 @@
+SMPC-075
+H/P
+The subsystem shall restart automatically and autonomously after a
+complete loss of all main bus when Solar array power reappears.

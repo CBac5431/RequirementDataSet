@@ -1,0 +1,6 @@
+SPLM-030
+H
+The determination on a half-yearly basis of the remaining mass of
+helium contained in the main tank over the nominal lifetime shall be
+included in the lifetime calculation and shall not shorten the lifetime by
+more than 1%.

@@ -1,0 +1,7 @@
+SMPC-135
+H/P
+The design of the subsystem shall be in accordance with the ESA
+Power Standard PSS-02-10 (AD6-9), shall comply with the system
+requirements and shall be compatible with the scientific instruments
+and the other subsystems. All the electrical elements shall comply with
+the EMC requirements.

@@ -1,0 +1,4 @@
+SCGN-010
+H/P
+All spacecraft actuated valves shall be equipped with a status indicator
+and their status shall be reported by the telemetry.

@@ -1,0 +1,7 @@
+SMPC-085
+H/P
+At power up, restart and upon recovery from any power loss, the
+spacecraft electrical configuration (including all sub-systems, units and
+instruments) shall be in a known deterministic and reproducible state.
+This state shall be safe and shall allow a predefined recovery of the
+spacecraft and of its sub-systems.

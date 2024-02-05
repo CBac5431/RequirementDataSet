@@ -1,0 +1,4 @@
+SMPC-165
+H/P
+The batteries shall be protected against excessive overcharge,
+undervoltage, overheating and freezing.

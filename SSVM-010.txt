@@ -1,0 +1,4 @@
+SSVM-010
+P
+The Planck SVM structure shall provide the structural support to carry
+the Planck Payload Module and the Herschel spacecraft if applicable.

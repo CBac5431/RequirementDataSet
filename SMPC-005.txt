@@ -1,0 +1,4 @@
+SMPC-005
+H/P
+The PCS shall condition, control and store energy coming from the
+solar array and the batteries.

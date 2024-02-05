@@ -1,0 +1,5 @@
+SPLM-085
+H
+It shall be possible to perform the actuation of valves during the
+launcher upper section (L9) boost phase, directly from Ariane 5
+initiated commands.

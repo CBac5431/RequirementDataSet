@@ -1,0 +1,5 @@
+SMPC-050
+H/P
+Adequate means and telemetry shall be provided to determine the
+state of charge of the batteries throughout all mission phases to an
+accuracy better than 10%.

@@ -1,0 +1,7 @@
+SMPC-145
+H/P
+The subsystem shall be designed such that in all operating modes
+where the power available from the solar array exceeds the main bus
+and battery charge demand, the surplus electrical power is left in the
+solar array. Large circulating currents between the solar array and the
+spacecraft shall be avoided.

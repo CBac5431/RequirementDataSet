@@ -1,0 +1,5 @@
+SMPC-160
+H/P
+The energy storage system shall consist of batteries. Each battery
+shall contain thermal sensors, temperature control heating elements
+and, if needed, cell by-pass diode circuitry.

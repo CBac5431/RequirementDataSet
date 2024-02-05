@@ -1,0 +1,7 @@
+SPLM-070
+H
+The helium subsystem shall be adequately instrumented, including
+temperature sensors and in particular with devices for the
+measurement of the mass of helium remaining in the tanks on the
+ground with an accuracy of 2% and with an accuracy of 5% in orbital
+conditions (for the main HeII tank only).

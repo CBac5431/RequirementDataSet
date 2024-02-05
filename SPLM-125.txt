@@ -1,0 +1,4 @@
+SPLM-125
+H
+In particular, the aperture shall be sufficiently large not to cause any
+vignetting.

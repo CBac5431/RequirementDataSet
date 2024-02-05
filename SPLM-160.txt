@@ -1,0 +1,5 @@
+SPLM-160
+H
+In order to limit parasitic heat loads through the closed cryocover prior
+to in-orbit operations, the internal temperature of the door shall be as
+low as possible by passive shielding and/or ground active cooling.

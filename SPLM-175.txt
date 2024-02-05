@@ -1,0 +1,3 @@
+SPLM-175
+H
+The use of pyrotechnics in the design shall be avoided.

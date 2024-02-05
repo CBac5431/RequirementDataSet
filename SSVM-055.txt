@@ -1,0 +1,5 @@
+SSVM-055
+H/P
+The lifting points and transportation interfaces shall be arranged such
+that (except for the lifting points themselves) ground-handling loads
+will not constitute a critical load case.

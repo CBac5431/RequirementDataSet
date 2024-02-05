@@ -1,0 +1,5 @@
+SMPC-020
+H/P
+The PCS shall maintain proper operating conditions for the batteries
+and shall manage the charge/discharge cycles of the batteries to fulfil
+power demands as required.

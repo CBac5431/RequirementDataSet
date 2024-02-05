@@ -1,0 +1,4 @@
+SPLM-145
+H
+The cryocover shall, once opened, not cause vignetting of the
+telescope beam.

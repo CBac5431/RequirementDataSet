@@ -1,0 +1,6 @@
+SMPC-025
+H/P
+The PCS shall provide all resources needed for the operation of the
+pyro-technical devices (if any) for experiments as well as for
+spacecraft functions and it shall condition, control and distribute the
+power to these devices.

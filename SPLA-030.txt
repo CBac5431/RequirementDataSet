@@ -1,0 +1,4 @@
+SPLA-030
+P
+The radiative sink temperature (see section 5.6.3) of the innermost
+shield of the PPLM shall be less than 60 K with a goal of 50 K.

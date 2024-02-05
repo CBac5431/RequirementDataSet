@@ -1,0 +1,6 @@
+SMPC-080
+H/P
+The PCS shall be able to distribute sufficient power to the scientific
+instruments and spacecraft subsystems to operate these according to
+the mission requirements, for all operational modes and during all
+mission phases.

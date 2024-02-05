@@ -1,0 +1,6 @@
+SPLA-005
+P
+The Planck Payload Module shall comply and accommodate the
+Planck instruments [AD4-5, AD4-6], the Planck Telescope [AD1-3] and
+the shielding necessary to provide the thermal, straylight and RFI
+environment.

@@ -1,0 +1,4 @@
+SPLM-165
+H
+It shall be possible to open and close the cryocover on ground with the
+cryostat in cold condition by appropriate GSE devices.

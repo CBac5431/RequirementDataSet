@@ -1,0 +1,5 @@
+SMPC-010
+H/P
+The PCS shall condition, control and distribute all the electrical power
+required by the scientific instruments and spacecraft subsystems
+and/or units as defined in AD4-2 to AD4-6.

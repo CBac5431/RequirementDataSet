@@ -1,0 +1,5 @@
+SSVM-045
+H/P
+The structure design shall provide easy accessibility to connectors and
+equipment and shall allow for easy integration, removal and
+maintenance of all secondary structures, subsystems and equipment.

@@ -1,0 +1,6 @@
+SMPC-185
+H/P
+Essential functions (e.g. synchronisation or auxiliary power supply)
+shall not rely on centrally generated auxiliary functions. Any power
+subsystem equipment shall be able to operate independently of any
+external synchronisation or auxiliary power supply.

@@ -1,0 +1,5 @@
+SSVM-035
+H/P
+The primary and secondary structure shall comply with the interface
+requirements of the payload defined in IID’s Part B (AD4-2 through
+AD4-7).

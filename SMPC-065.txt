@@ -1,0 +1,7 @@
+SMPC-065
+H/P
+The subsystem shall provide dedicated heater outputs for thermally
+critical units. These outputs shall be connected such that no other unit
+nor subsystem must be active to energise these lines. The lines shall
+act as additional redundancies and shall be controlled by independent
+and dedicated thermostats.

@@ -1,0 +1,5 @@
+SPLM-110
+H
+The cryostat shall be equipped with a cryocover, which provides a
+vacuum-tight closure of the cryostat aperture on-ground and during
+the initial in-orbit period.

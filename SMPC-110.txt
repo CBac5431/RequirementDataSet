@@ -1,0 +1,4 @@
+SMPC-110
+H/P
+Bus transients due to inter-domain operation shall be in accordance
+with the requirements of AD6-9.

@@ -1,0 +1,4 @@
+SPLM-120
+H
+The aperture shall comply with the telescope optical interface
+requirements as specified in AD2-1.

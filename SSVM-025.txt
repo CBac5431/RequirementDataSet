@@ -1,0 +1,5 @@
+SSVM-025
+H/P
+All performance requirements shall be met under the applicable
+environmental conditions encountered on the ground, during launch
+and on orbit (as defined in section 5.5).
