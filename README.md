@@ -13,8 +13,8 @@ In this document requirements are identified using an ID with the following form
 4letters-3Digits
 
 They also have an applicabitility attribute represented by : 
-H  for Herschel Satelit
-P for Planck Satelit
+H  for Herschel Satellite
+P for Planck Satellite
 H/P for both
 
 and the Statement that describe what is expected.
