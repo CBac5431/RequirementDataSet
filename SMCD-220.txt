@@ -1,0 +1,5 @@
+SMCD-220
+H/P
+Each science and housekeeping packets shall contain adequate time
+information to enable the user to perform the necessary correlation
+between the data acquisition and the UTC on ground .

@@ -1,0 +1,5 @@
+SMCD-165
+H/P
+Each processing unit shall count the single bit corrections by the
+EDAC and the uncorrectable double errors. These values shall be part
+of the TM housekeeping information.

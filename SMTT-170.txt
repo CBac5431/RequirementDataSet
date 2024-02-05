@@ -1,0 +1,5 @@
+SMTT-170
+H/P
+The TT&C subsystem shall be designed such as to be launched
+power "ON"; however, the telemetry function shall be disabled during
+launch.

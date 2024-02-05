@@ -1,0 +1,7 @@
+SMTT-155
+H/P
+The MGA shall allow for the telemetry downlink with the Perth / New
+Norcia 35 m station and with the 15 m station at Kourou up to a
+distance from Earth of 1.8 x 106 km for Herschel and of 1.6 x 106 km
+for Planck , during the telecommunication period ( DTCP ) , at 10°
+elevation.

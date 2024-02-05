@@ -1,0 +1,6 @@
+SMCD-105
+H/P
+The CDMS shall be able to distinguish between permanent faults and
+transient ones (single event upset, e.g.) and shall be able to
+reconfigure or adopt a safe mode autonomously as well as by ground
+command.

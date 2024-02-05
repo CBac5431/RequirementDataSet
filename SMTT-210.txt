@@ -1,0 +1,6 @@
+SMTT-210
+H/P
+The RF-suitcase shall be computer controlled to allow the
+commanding of any function of the units and to display all telemetry
+data on request. The housekeeping data of the integrated units shall
+be displayed permanently.

@@ -1,0 +1,6 @@
+SMTT-110
+H/P
+The uplink/downlink signals shall be in the range –7190-7235 MHz for
+telecommands and 8450-8500 MHz for telemetry. Separate
+frequencies will be allocated by ESA for Herschel and Planck
+respectively.

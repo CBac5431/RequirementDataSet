@@ -1,0 +1,8 @@
+SMCD-150
+H/P
+The storage media shall comply with the following requirements:
+- it shall support partial readout
+- it shall manage free space and automatically mark bad areas
+- it shall make available on request information about free space,
+files stored and bad areas
+- it shall support simultaneous read and write operations

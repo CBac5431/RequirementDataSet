@@ -1,0 +1,5 @@
+SMTT-045
+H/P
+The TT&C subsystem shall accept a digital telemetry signal from the
+CDMS and modulate it onto a downlink carrier. It shall be possible to
+disable this function.

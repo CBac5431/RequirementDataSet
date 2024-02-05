@@ -1,0 +1,4 @@
+SMCD-035
+H/P
+The CDMS shall be connected to the instruments via an on-board
+data bus architecture according to MIL 1553B.

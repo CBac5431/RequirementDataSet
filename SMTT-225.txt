@@ -1,0 +1,4 @@
+SMTT-225
+H/P
+The suitcase shall be able to support the lower level protocols, e.g.
+COP-1 for command reception.

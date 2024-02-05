@@ -1,0 +1,5 @@
+SMTT-235
+H/P
+The RF suitcase shall display the parameters relevant to the
+commands received (e.g. the number of packets received and the
+contents of the packets).

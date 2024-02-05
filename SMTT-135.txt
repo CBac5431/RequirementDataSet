@@ -1,0 +1,3 @@
+SMTT-135
+H/P
+The probability of frame loss on the downlink shall be < 10-5.

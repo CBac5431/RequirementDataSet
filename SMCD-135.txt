@@ -1,0 +1,4 @@
+SMCD-135
+H/P
+All commands necessary to recover from the survival mode shall be
+identified by the contractor.

@@ -1,0 +1,6 @@
+SMCD-015
+H/P
+The CDMS shall provide an interface to the Electrical Ground Support
+Equipment (EGSE). This shall at least include telemetry,
+telecommand, timing signals and all other signals needed for the
+system level check-out.

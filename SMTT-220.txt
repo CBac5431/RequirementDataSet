@@ -1,0 +1,4 @@
+SMTT-220
+H/P
+The suitcase shall be capable of generating transfer frames in the
+same layout as during flight, with representative packets

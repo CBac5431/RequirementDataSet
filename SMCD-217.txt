@@ -1,0 +1,3 @@
+SMCD-217
+H/P
+The accuracy of the time adjustment shall be 500 ms to TAI.

@@ -1,0 +1,5 @@
+SMTT-005
+H/P
+The TT&C Subsystem shall be able to receive and demodulate
+telecommands, modulate and transmit the telemetry, and transpond
+the ranging signal, simultaneously.

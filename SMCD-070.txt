@@ -1,0 +1,4 @@
+SMCD-070
+H/P
+The CDMS shall store all commands, housekeeping and science data
+generated on-board.

@@ -1,0 +1,6 @@
+SMCD-145
+H/P
+The size of the on-board storage medium shall be sufficient to store
+the averaged scientific and housekeeping data for a minimum of 2
+days . The input data rate of the on-board storage medium shall allow
+the acquisition of the peak scientific and housekeeping data .

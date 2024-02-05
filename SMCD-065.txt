@@ -1,0 +1,4 @@
+SMCD-065
+H/P
+The CDMS shall distribute all commands from ground, stored, and/or
+generated on-board.

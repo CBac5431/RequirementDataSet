@@ -1,0 +1,4 @@
+SMCD-210
+H/P
+The time format shall be Consultative Committee for Space Data
+Systems ( CCSDS ) Unsegmented Code.

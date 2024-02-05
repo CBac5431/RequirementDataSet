@@ -1,0 +1,4 @@
+SMCD-095
+H/P
+The CDMS shall allow for the implementation of the autonomy
+requirements as specified in Section 4.

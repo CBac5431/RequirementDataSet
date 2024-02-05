@@ -1,0 +1,6 @@
+SMCD-005
+H/P
+The CDMS shall be compliant with the following ESA Standards:
+- Packet Telemetry Standard, ESA PSS-04-106 (AD6-6)
+- Packet Telecommand Standard, ESA PSS-04-107 (AD6-7)
+- Telemetry Channel Coding ESA PSS-04-107 (AD6-3)

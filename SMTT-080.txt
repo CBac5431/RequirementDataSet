@@ -1,0 +1,4 @@
+SMTT-080
+H/P
+When switching between antennas it shall not be necessary to switch
+off the transmitter.

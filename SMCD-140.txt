@@ -1,0 +1,5 @@
+SMCD-140
+H/P
+. Capability shall be provided to send high priority commands (pulse
+and/or register load commands with only hardware support) to
+configure essential spacecraft items.

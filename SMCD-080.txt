@@ -1,0 +1,3 @@
+SMCD-080
+H/P
+The CDMS shall store the mission timeline on-board for 48 hours.

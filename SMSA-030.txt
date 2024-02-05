@@ -1,0 +1,4 @@
+SMSA-030
+H/P
+The solar array shall be designed such that it is one string failure
+tolerant

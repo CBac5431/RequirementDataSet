@@ -1,0 +1,5 @@
+SMCD-175
+H/P
+The Spacecraft Event Log (SEL) shall be partitioned such that the
+various types of records can be easily separated and handled as
+separate logs.

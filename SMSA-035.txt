@@ -1,0 +1,5 @@
+SMSA-035
+H/P
+The power transmission elements such as connectors and harness ,
+shall be redundant . The complete connectors themselves shall be
+redundant , i.e. not only the pins .

@@ -1,0 +1,4 @@
+SMTT-215
+H/P
+The command bit stream and clock shall be available to measure the
+bit error rate (BER).

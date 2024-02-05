@@ -1,0 +1,7 @@
+SMTT-160
+H/P
+The TT&C subsystem shall not have any single point failure except for
+the radiating elements of the antennas and their associated cabling. It
+shall have the capability of recovering from a failure autonomously. In
+all cases, it shall be possible to override the autonomous recovery
+action by use of ground commands.

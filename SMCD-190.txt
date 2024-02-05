@@ -1,0 +1,4 @@
+SMCD-190
+H/P
+It shall be possible to clear the SEL (or any SEL partition) by ground
+command.

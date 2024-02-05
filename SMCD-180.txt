@@ -1,0 +1,4 @@
+SMCD-180
+H/P
+All entries in the SEL shall be time-stamped using the on-board
+spacecraft time reference.

@@ -1,0 +1,4 @@
+SMCD-050
+H/P
+The CDMS shall acquire the periodic and non-periodic housekeeping
+data from the spacecraft subsystems.

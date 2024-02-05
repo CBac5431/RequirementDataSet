@@ -1,0 +1,4 @@
+SMTT-095
+H/P
+The receiver shall provide a status signal indicating the presence of an
+uplink signal.

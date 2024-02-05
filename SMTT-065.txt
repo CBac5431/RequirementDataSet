@@ -1,0 +1,4 @@
+SMTT-065
+H/P
+The configuration shall be such that both receivers can receive and
+both decoders can decode simultaneously.

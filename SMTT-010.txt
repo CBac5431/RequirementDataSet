@@ -1,0 +1,4 @@
+SMTT-010
+H/P
+The TT&C Subsystem shall interface with the ground segment
+according to the requirements of AD3-1.

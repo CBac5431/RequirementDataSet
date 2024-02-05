@@ -1,0 +1,6 @@
+SMCD-010
+H/P
+The CDMS shall be compatible with the Herschel / Planck Operations
+Interface Requirements Document (AD3-2), the Herschel / Planck
+Space to Ground Interface Document (AD3-1) and the Herschel /
+Planck Packet Structure ICD (AD3-3).

@@ -1,0 +1,5 @@
+SMTT-085
+H/P
+Telecommands shall be via the LGA’s and the MGA , and the
+subsystem shall provide the required telecommand capabilities at
+maximum distance from the Earth and in any S/C attitude .

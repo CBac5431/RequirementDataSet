@@ -1,0 +1,4 @@
+SMSA-025
+H/P
+All solar array cell strings shall have individual blocking diodes and
+shunt diodes where required.

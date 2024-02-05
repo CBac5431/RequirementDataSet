@@ -1,0 +1,4 @@
+SMCD-045
+H/P
+The CDMS shall acquire the scientific and periodic and non-periodic
+housekeeping data from the scientific instruments.

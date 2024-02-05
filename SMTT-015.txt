@@ -1,0 +1,4 @@
+SMTT-015
+H/P
+The links with the ground shall be established using X-band for both
+uplink and downlink.

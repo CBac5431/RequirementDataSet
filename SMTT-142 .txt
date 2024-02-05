@@ -1,0 +1,5 @@
+SMTT-142 
+H/P
+The MGA shall support an uplink command rate of 4 K.bps for both
+Perth / New Norcia and Kourou stations , up to a distance from Earth
+of 1.8 x 106 km for Herschel and of 1.6 x 106 km for Planck.

@@ -1,0 +1,6 @@
+SMCD-060
+H/P
+It shall be possible to transmit to ground the various telemetry modes
+described in 4.1 and simultaneously record the real time
+housekeeping data or the real time housekeeping data and real time
+science data.

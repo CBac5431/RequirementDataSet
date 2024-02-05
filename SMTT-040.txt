@@ -1,0 +1,6 @@
+SMTT-040
+H/P
+The TT&C subsystem shall accept uplink signals and provide a
+demodulated digital telecommand signal to the CDMS for further
+processing. This function shall always be enabled without any
+possibility of switching it off.

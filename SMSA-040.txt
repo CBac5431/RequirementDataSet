@@ -1,0 +1,6 @@
+SMSA-040
+H/P
+The electrical network shall be composed of identical electrical
+sections , as far as possible . It shall minimise the resulting magnetic
+moment and ensure the insulation of solar network with respect to the
+solar array structure.

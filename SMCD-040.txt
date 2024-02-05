@@ -1,0 +1,4 @@
+SMCD-040
+H/P
+The CDMS shall exchange TM / TC packets with all on-board units,
+which can encode / decode TM / TC packets.

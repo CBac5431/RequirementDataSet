@@ -1,0 +1,4 @@
+SMTT-185
+H/P
+The subsystem design shall ensure testability, including hot redundant
+functions, and failure indication.

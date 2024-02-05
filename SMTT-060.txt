@@ -1,0 +1,4 @@
+SMTT-060
+H/P
+The receiver outputs shall be cross-coupled with the inputs of the
+CDMS command decoders.

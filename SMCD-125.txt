@@ -1,0 +1,4 @@
+SMCD-125
+H/P
+Any invalid telecommand received shall be rejected and the rejection
+shall be indicated in the telemetry without delay.

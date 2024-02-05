@@ -1,0 +1,5 @@
+SMSA-045
+P
+The solar array design (including all units placed on its surface) shall
+minimise the generation of periodic temperature changes in the SVM
+and PLM of Planck induced by the spin modulation of the solar flux.

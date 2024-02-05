@@ -1,0 +1,5 @@
+SMTT-230
+H/P
+The Contractor shall deliver a RF suitcase description and operation
+manual so that operations of the suitcase by ESOC technical
+personnel is possible without the need for Contractor’s assistance.

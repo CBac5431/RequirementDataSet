@@ -1,0 +1,5 @@
+SMTT-165
+H/P
+The subsystem design shall ensure that all its relevant operational
+parameters are acquired via suitable sensors and provided to the
+CDMS for incorporation into the HK telemetry.

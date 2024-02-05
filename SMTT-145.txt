@@ -1,0 +1,7 @@
+SMTT-145
+H/P
+The LGA’s shall support the downlink of real time housekeeping data (
+spacecraft and payload ) telemetry using the 35 m station at Perth /
+New Norcia , and 500 bps using the 15 m station at Kourou , up to a
+distance from Earth of 1.8 x 106 km for Herschel and of 1.6 x 106 km
+for Planck.

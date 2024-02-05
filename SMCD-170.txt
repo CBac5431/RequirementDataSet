@@ -1,0 +1,12 @@
+SMCD-170
+H/P
+At all times, the CDMS shall record key on board events in a
+Spacecraft Event Log (SEL) stored in the on-board Data Storage.
+Key events include at least:
+i. H/W and S/W autonomous actions
+ii. H/W and S/W failures
+iii. H/W and S/W reconfigurations
+iv. S/W start-up and shutdown
+v. Procedure start-up and completion
+vi. Recording of the major Mission Timeline (MTL) events
+Recording of the major manual actions (initiated during DTCP), etc

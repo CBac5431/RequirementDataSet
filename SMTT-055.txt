@@ -1,0 +1,4 @@
+SMTT-055
+H/P
+Hot redundancy shall be provided for the receive function and cold
+redundancy for the transmit function.

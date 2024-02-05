@@ -1,0 +1,3 @@
+SMCD-185
+H/P
+The CDMS shall allow down-linking of any selected partition of the SEL.

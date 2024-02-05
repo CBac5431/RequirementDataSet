@@ -1,0 +1,5 @@
+SCMD-195
+H/P
+The input and output data rates of the storage medium and the CDMS
+shall be compatible with the Telecommunication period for data
+volumes corresponding to 24 hours of operations.

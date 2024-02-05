@@ -1,0 +1,4 @@
+SMTT-150
+H/P
+The omni-directional coverage of the LGA’s shall overlap to the extend
+necessary to ensure that the antenna switching is never time-critical.

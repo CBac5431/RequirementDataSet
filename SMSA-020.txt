@@ -1,0 +1,8 @@
+SMSA-020
+H/P
+If silicon cells are used for the electrical network they shall meet the
+requirements of the ESA specification for silicon solar cells, PSS-01-
+604 (AD-8/1).
+If GaAS cells are used for the electrical network they shall meet the
+requirements of the Generic Specification for Gallium Arsenide Solar
+Cells (AD-8/2).

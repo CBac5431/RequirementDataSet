@@ -1,0 +1,6 @@
+SMCD-020
+H/P
+The CDMS shall be fully redundant including cross strapping to
+improve reliability. It shall survive any single point failure and no failure
+shall propagate outside the unit level, or even sub-unit level for
+complex units.

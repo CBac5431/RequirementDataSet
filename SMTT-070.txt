@@ -1,0 +1,4 @@
+SMTT-070
+H/P
+The transmitters shall be able to receive the telemetry stream from
+both parts of the redundant CDMS.

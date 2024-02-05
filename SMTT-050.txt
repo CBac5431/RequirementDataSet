@@ -1,0 +1,6 @@
+SMTT-050
+H/P
+The TT&C subsystem shall provide a range and/or range rate
+measurement capability. For ranging, it shall be capable to
+demodulate ranging tone from the uplink carrier and modulate the
+downlink carrier with this tone.

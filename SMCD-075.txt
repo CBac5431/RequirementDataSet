@@ -1,0 +1,4 @@
+SMCD-075
+H/P
+It shall be possible to dump the non-periodic housekeeping, periodic
+housekeeping and other data separately.

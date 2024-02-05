@@ -1,0 +1,5 @@
+SMCD-055
+H/P
+The CDMS shall condition, process, format, packetize and code the
+data for on-board storage and for telemetry transmission to the ground
+station and for on-board supervisory functions as required.

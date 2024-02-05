@@ -1,0 +1,4 @@
+SMSA-050
+P
+The edge of the solar array shall be designed to minimise diffraction
+effects.

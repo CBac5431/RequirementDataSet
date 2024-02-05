@@ -1,0 +1,4 @@
+SMCD-155
+H/P
+The storage media shall have a bit error rate of less than 1 in 1013 at
+end of mission.

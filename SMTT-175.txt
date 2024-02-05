@@ -1,0 +1,4 @@
+SMTT-175
+H/P
+The radio frequency switching between antenna and transponders
+shall be done without single point failure.

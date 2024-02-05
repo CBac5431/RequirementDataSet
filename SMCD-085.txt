@@ -1,0 +1,4 @@
+SMCD-085
+H/P
+The CDMS shall provide synchronisation signals and timing signals
+as required by the science instruments or spacecraft units.

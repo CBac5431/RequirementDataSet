@@ -1,0 +1,4 @@
+SMCD-120
+H/P
+Telecommand packets with no segmentation shall be used on the
+ground to space link.

@@ -1,0 +1,4 @@
+SMSA-015
+H/P
+A margin of 10% on solar array calculated power at the end of nominal
+life time shall be taken into account.

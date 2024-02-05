@@ -1,0 +1,3 @@
+SMCD-100
+H/P
+The CDMS shall perform its own initialisation and monitoring.

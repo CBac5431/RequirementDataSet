@@ -1,0 +1,5 @@
+SMCD-090
+H/P
+The CDMS shall maintain on-board a Central Time Reference ( CTR )
+and shall distribute this time to all on-board users . The CDMS Central
+Time Reference shall be settable by telecommand .

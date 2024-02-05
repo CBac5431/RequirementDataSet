@@ -1,0 +1,4 @@
+SMCD-115
+H/P
+Telemetry packets shall be used on the space to ground link. S/C
+units shall generate unsegmented TM packets.

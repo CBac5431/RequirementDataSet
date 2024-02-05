@@ -1,0 +1,4 @@
+SMTT-075
+H/P
+The antenna configuration shall ensure sufficient coverage and up-and
+downlink rate capability for all mission phases.

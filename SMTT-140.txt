@@ -1,0 +1,6 @@
+SMTT-140
+H/P
+The LGA’s shall support an uplink high command rate of 4Kbps using
+the 35 m station at Perth / New Norcia and a low command data rate
+of 125 bps using the 15 m station at Kourou , up to a distance from
+Earth of 1.8 x 106 km for Herschel and of 1.6 x 106 km for Planck.

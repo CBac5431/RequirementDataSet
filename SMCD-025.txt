@@ -1,0 +1,3 @@
+SMCD-025
+H/P
+The CDMS shall be fully operational after start-up.

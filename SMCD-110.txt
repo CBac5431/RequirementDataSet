@@ -1,0 +1,4 @@
+SMCD-110
+H/P
+The CDMS shall be able to route and store the peak TM and TC traffic
+without degradation, as required by instruments and on-board users.

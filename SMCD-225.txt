@@ -1,0 +1,6 @@
+SMCD-225
+H/P
+The spacecraft shall deliver the timing information ( time in TAI [ Temps
+Atomique International ] format ) including synchronisation signals and
+clock to the instruments for datation of their information with an
+accuracy of 0.1 ms.

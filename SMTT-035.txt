@@ -1,0 +1,8 @@
+SMTT-035
+H/P
+The TT&C Subsystem shall support the following modes for the
+downlink:
+- Carrier only
+- Telemetry
+- Ranging
+- Simultaneous Telemetry and Ranging

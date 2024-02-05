@@ -1,0 +1,4 @@
+SMTT-025
+H/P
+The spacecraft shall have no requirements for telecommand and
+telemetry operation during the launch phase via its RF links.

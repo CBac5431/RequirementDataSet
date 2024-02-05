@@ -1,0 +1,4 @@
+SMTT-120
+H/P
+The link budget calculations and associated margins shall be
+according to AD3-1 section 4.3.

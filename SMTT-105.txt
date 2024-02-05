@@ -1,0 +1,5 @@
+SMTT-105
+H/P
+A Medium-Gain Antenna (MGA) shall provide the primary
+communication for the downlink during the scientific operations phase
+and during the Commissioning and Performance Verification Phases.

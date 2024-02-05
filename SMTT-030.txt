@@ -1,0 +1,7 @@
+SMTT-030
+H/P
+The TT&C Subsystem shall support the following modes for the uplink:
+- Carrier only
+- Telecommand
+- Ranging
+- Simultaneous Telecommand and Ranging

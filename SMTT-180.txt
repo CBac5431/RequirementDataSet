@@ -1,0 +1,3 @@
+SMTT-180
+H/P
+The subsystem shall meet all EMC requirements.

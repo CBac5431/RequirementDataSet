@@ -1,0 +1,7 @@
+SMCD-205
+H/P
+The accuracy of the CTR ( Central on-board Reference Time ) shall be
+at least 1 * 10 E-6 . This includes short term stability over 100
+seconds and stability over 30 days , including all parameters
+influencing the stability ( ageing, temperature, accuracy of the time
+correlation, etc. ).

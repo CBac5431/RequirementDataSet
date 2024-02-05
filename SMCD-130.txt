@@ -1,0 +1,5 @@
+SMCD-130
+H/P
+The telecommand rate shall be switchable between the high bit rates
+(4 kbps) and low bit rate compatible with the Kourou station at
+maximum distance.

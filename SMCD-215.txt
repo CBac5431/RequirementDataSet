@@ -1,0 +1,6 @@
+SMCD-215
+H/P
+It shall be possible to set and adjust the CTR ( Central Time Reference
+) to TAI ( Temps Atomique International , Ref. 1958 January Epoch ) as
+defined in AD6-19 , when needed , and to verify the on-board CTR by
+telecommand / telemetry .

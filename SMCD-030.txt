@@ -1,0 +1,8 @@
+SMCD-030
+H/P
+The CDMS shall perform the following general functions:
+- Telemetry acquisition and formatting
+- Telecommand acquisition, decoding validation and distribution
+- Data storage
+- Time distribution and time tagging
+- Autonomy supervision and management

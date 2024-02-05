@@ -1,0 +1,4 @@
+SMCD-200
+H/P
+All time reference in telemetry, telecommand and on-board shall be
+derived from the on-board Central Time Reference ( CTR ) .

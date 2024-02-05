@@ -1,0 +1,8 @@
+SMSA-010
+H/P
+The solar array performance shall be predicted and the performance
+figures shall include all effects which have an impact on this
+performance (solar attitude, Sun intensity and variations thereof, cell
+temperature, radiation, micro-meteorites, etc.) and shall be based on
+accepted cell degradation figures and actual cell performance
+measurements.

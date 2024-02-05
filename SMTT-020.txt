@@ -1,0 +1,7 @@
+SMTT-020
+H/P
+The TT&C Subsystem shall be compatible with the following ESA
+Standards:
+- Ranging Standard, ESA PSS-04-104 (AD6-4)
+- Radio Frequency and Modulation Standard, ESA PSS-04-105
+(AD6-5)

@@ -1,0 +1,7 @@
+SMSA-005
+H/P
+The solar array (SA) shall provide the necessary power for the
+spacecraft throughout the nominal lifetime in the worst case conditions
+for Sun intensity and solar aspect angle in all phases. The worst case
+for solar aspects angle will be defined, taking into account the attitude
+constraints and restrictions and phases defined in section 3.2.
