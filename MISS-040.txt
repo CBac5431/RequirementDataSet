@@ -1,0 +1,4 @@
+MISS-040
+H/P
+Both spacecraft shall be compatible with the attitude constraints
+imposed during the launch phase

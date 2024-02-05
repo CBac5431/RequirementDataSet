@@ -1,0 +1,6 @@
+MOOM-145
+H/P
+It shall ensure a two way communication link with the ground station
+when coverage is available for at least housekeeping telemetry data
+and commanding (i.e. providing suitable link margins with omnidirectional
+coverage).

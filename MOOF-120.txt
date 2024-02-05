@@ -1,0 +1,5 @@
+MOOF-120
+P
+For large spin axis reorientation not part of the Planck scanning law
+(up to 20 degrees), the rate of reorientation of the jitter strip average
+shall be at least 0.5 arcmin/s.

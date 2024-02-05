@@ -1,0 +1,5 @@
+MOOM-135
+H/P
+The survival mode shall be activated automatically by the S/C after a
+major on-board failure or a violation of the attitude constraints of
+Section 4.2.7.

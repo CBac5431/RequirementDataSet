@@ -1,0 +1,5 @@
+MOOM-110
+H
+After reception of the request for pointing correction from the
+instrument, the spacecraft shall autonomously readjust its attitude
+accordingly.

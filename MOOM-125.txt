@@ -1,0 +1,6 @@
+MOOM-125
+P
+The spacecraft shall provide inertial attitude data such that it will be
+possible to derive the absolute angle between the LOS of each Planck
+detector and the actual attitude of the spacecraft with accuracy
+compatible with the Planck pointing requirements (AME).

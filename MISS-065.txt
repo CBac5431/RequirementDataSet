@@ -1,0 +1,4 @@
+MISS-065
+H/P
+Both spacecraft shall be compatible with the direction of the Delta-
+Velocity vector as defined by SGEN-060.

@@ -1,0 +1,5 @@
+MOOM-155
+H/P
+It shall be possible to enter the survival mode by ground command.
+Exit from the survival mode shall only be possible by ground
+command.

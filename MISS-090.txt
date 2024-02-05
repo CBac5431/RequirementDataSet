@@ -1,0 +1,5 @@
+MISS-090
+P
+To perform orbit maintenance the spacecraft design shall not require
+dedicated slew manoeuvres but maintain the attitude imposed by the
+execution of the nominal sky scanning law.

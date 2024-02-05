@@ -1,0 +1,4 @@
+MOFM-125
+H/P
+Control laws and parameters for autonomous functions shall be
+capable of being modified by ground command.

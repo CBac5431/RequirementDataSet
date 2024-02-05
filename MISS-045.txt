@@ -1,0 +1,4 @@
+MISS-045
+H/P
+The spacecraft shall autonomously detect separation from the launch
+vehicle and reorient itself to achieve Sun-pointing of the solar arrays.

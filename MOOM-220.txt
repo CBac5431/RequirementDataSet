@@ -1,0 +1,5 @@
+MOOM-220
+H/P
+The spacecraft shall support on-board storage of all mission data
+generated during 48 hours (e.g. science and HK data, events, reports
+etc).

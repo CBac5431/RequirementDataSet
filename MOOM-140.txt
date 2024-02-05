@@ -1,0 +1,5 @@
+MOOM-140
+H/P
+The survival mode shall maintain a safe attitude within the constraints
+allowing a continuous supply of power and maintaining a thermal
+environment compatible with the spacecraft and essential loads.

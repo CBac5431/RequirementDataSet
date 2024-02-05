@@ -1,0 +1,7 @@
+MISS-005
+H/P
+Both spacecraft shall be compatible with the facilities at the launch
+site. However, specific non-standard facility modifications/extension
+that might have to be implemented (e.g. for helium handling or dry
+nitrogen flushing) by the launcher authority shall be identified by the
+Contractor.

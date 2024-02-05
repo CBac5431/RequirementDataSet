@@ -1,0 +1,4 @@
+MOOM-010
+H
+During Herschel Science Observations, the spacecraft shall provide
+the pointing modes defined in Herschel Pointing Modes, Annex 1.

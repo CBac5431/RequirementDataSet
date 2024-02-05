@@ -1,0 +1,4 @@
+MISS-030
+H/P
+Both spacecraft shall be compatible with the combined duration of the
+yearly launch windows of at least 6 months.

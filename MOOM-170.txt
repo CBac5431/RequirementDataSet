@@ -1,0 +1,4 @@
+MOOM-170
+H/P
+The exact attitude during the survival mode may not be known, but the
+attitude constraints of Section 4.2.7. shall be satisfied.

@@ -1,0 +1,8 @@
+MOGE-030
+H/P
+The spacecraft design shall support the following telemetry modes:
+- Real time housekeeping data (spacecraft and payload)
+- Real time science + real time housekeeping data
+- Real time housekeeping data + dump of on-board mass memory
+- Real time housekeeping +real time science + dump of the onboard
+mass memory

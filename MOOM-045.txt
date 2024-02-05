@@ -1,0 +1,4 @@
+MOOM-045
+P
+The direction (sense of rotation) of the spin shall be unique throughout
+the mission as specified in MOOF-050.

@@ -1,0 +1,4 @@
+MOOM-160
+H/P
+The spacecraft shall be able to maintain the survival mode without any
+ground contact for at least seven days.

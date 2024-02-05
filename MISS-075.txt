@@ -1,0 +1,3 @@
+MISS-075
+H/P
+All planned manoeuvres shall be possible without ground link.

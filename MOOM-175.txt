@@ -1,0 +1,4 @@
+MOOM-175
+H/P
+Upon entry in the survival mode, the Mission Time-Line shall be
+discontinued. The TM format shall be switched to HK mode only.

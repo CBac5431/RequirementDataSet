@@ -1,0 +1,4 @@
+MOOF-080
+H
+It shall be possible to change by command, scan rate between 0.1
+arcsec/s and 1 arcmin/s with a resolution of 0.1 arcsec/s.

@@ -1,0 +1,4 @@
+MOOF-085
+H
+The Absolute Rate Error about the scan axis shall be better than 1%
+of the demanded rate but not less than 0.1 arcsec/s.

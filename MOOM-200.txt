@@ -1,0 +1,4 @@
+MOOM-200
+H/P
+The spacecraft shall support autonomous (i.e. without ground contact)
+execution of the mission timeline.

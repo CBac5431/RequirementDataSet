@@ -1,0 +1,6 @@
+MOOF-105
+P
+The spacecraft shall be capable of reorienting the jitter strip average
+with an average amplitude of 3 arcmin (consistent with the Planck
+scanning law) and a resolution of 0.1 arcmin in any direction at a
+maximum rate of once per 30 min.

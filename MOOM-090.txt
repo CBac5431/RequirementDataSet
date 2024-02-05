@@ -1,0 +1,6 @@
+MOOM-090
+P
+The time needed for the regular (planned and/or preventive)
+maintenance operations of the Planck spacecraft in-orbit shall be less
+than 10 hours per month and shall take place during DTCP , while
+continuing the instruments observational operations .

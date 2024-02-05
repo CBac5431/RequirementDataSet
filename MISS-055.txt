@@ -1,0 +1,4 @@
+MISS-055
+H/P
+20 seconds after separation, the spacecraft shall provide telemetry
+data for spacecraft monitoring and check-out.

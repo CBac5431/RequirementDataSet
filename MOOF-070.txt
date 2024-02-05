@@ -1,0 +1,3 @@
+MOOF-070
+H
+Slews shall nominally not use the Reaction Control Subsystem (RCS).

@@ -1,0 +1,4 @@
+MOOF-010
+H
+Under nominal conditions, wheel off-loading shall take place outside
+the Observation Period (OP).

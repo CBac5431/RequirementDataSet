@@ -1,0 +1,5 @@
+MOOF-050
+P
+The nominal spin axis motion about the spacecraft +X-axis shall be at
+constant rate of +1 rpm (+6°/sec) with an Absolute Rate Error of less
+than 5.4 arcmin/sec.

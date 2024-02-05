@@ -1,0 +1,6 @@
+MOOF-125
+P
+To meet Planck APE and PDE requirements the spacecraft design
+shall not require dedicated reorientation manoeuvres but utilise a
+maximum of +/-10% tuning of the amplitude of the manoeuvres
+needed to execute the nominal sky survey.

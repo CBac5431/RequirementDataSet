@@ -1,0 +1,5 @@
+MOOM-095
+P
+During the Telecommunication Period DTCP, the Planck satellite shall
+provide all resources required to operate both instruments in their
+nominal operational modes.

@@ -1,0 +1,5 @@
+MISS-015
+H/P
+Both spacecraft shall be compatible with a direct ignition of the
+launcher upper stage, shall be supported by internal power and
+withstand the mechanical and thermal environment.

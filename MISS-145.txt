@@ -1,0 +1,5 @@
+MISS-145
+H
+Mission planning will ensure that during scientific operations, the
+minimum angle between line of sight (X axis) of the telescope and the
+Moon direction shall be 13 degrees.

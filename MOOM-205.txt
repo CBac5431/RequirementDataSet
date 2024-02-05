@@ -1,0 +1,4 @@
+MOOM-205
+H/P
+The spacecraft shall support rescheduling of planned events in the
+mission timeline as defined in AD3-2.

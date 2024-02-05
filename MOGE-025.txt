@@ -1,0 +1,5 @@
+MOGE-025
+H/P
+During all mission phases the spacecraft shall be able to receive
+telecommands and transmit housekeeping data in any attitude and
+orbit position , i.e. omni-directional coverage shall be provided.

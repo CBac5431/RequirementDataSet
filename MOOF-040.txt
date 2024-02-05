@@ -1,0 +1,6 @@
+MOOF-040
+H
+In consecutive pointings within 4 deg. x 4 deg. spherical area, the
+SRPE of all pointings following the initial pointing, as referred to the
+average (barycentre) pointing direction of the first pointing shall be
+less than 1 arcsec (68% probability level).

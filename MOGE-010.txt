@@ -1,0 +1,4 @@
+MOGE-010
+P
+The Planck spacecraft shall support the scientific observations of the
+Planck instruments

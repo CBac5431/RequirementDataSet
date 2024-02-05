@@ -1,0 +1,5 @@
+MOOM-085
+P
+The Planck spacecraft design shall allow for complete sky coverage
+(at least 95 % of the full 4 pi sr. celestial sphere ) in a spatially
+continuous way in less than 7.5 months.

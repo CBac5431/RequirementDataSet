@@ -1,0 +1,5 @@
+MISS-080
+H/P
+Both spacecraft shall be compatible with the operational Lissajous
+orbit around the 2nd Lagrangian Libration point in the Earth/Moon –
+Sun system.

@@ -1,0 +1,6 @@
+MISS-110
+H
+The Herschel spacecraft shall be compatible with any of the following
+combination of sun aspect angles away from the +Z-axis during all
+observational modes: +/-30 degrees about the Y-axis and +/-1
+degrees about the X-axis.

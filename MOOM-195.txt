@@ -1,0 +1,4 @@
+MOOM-195
+H/P
+The spacecraft shall support on-board storage of the mission timeline
+for a 48 hours mission time.

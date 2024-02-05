@@ -1,0 +1,5 @@
+MOOM-040
+P
+The spin axis of the Planck spacecraft shall be nominally parallel to
+the X-axis and pointing to the Sun as defined in the Planck Scanning
+Strategy, Annex 2.

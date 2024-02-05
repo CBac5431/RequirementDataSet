@@ -1,0 +1,6 @@
+MOOM-070
+H
+During satellite slews, the Herschel satellite shall provide all the
+resources necessary for operation of one science instrument in
+serendipity mode. Such science observations shall not put any
+demands on the spacecraft attitude profile.

@@ -1,0 +1,5 @@
+MISS-120
+P
+The Planck spacecraft shall be compatible with a sun aspect angle of
+± 10° from the -X-axis (around the spin axis) during all operation
+modes.

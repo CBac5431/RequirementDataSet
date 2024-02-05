@@ -1,0 +1,4 @@
+MOOF-055
+P
+Between 2 consecutive re-orientation manoeuvres , the spin rate drift
+or fluctuation over one hour shall be less than 10-4 rpm .

@@ -1,0 +1,4 @@
+MOOM-080
+P
+During Planck Science Observations, the spacecraft shall support the
+scanning law defined in the Planck Scanning Strategy in Annex 2.

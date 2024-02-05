@@ -1,0 +1,4 @@
+MOOM-055
+P
+The Planck spacecraft shall downlink all the data acquired during 24
+Hours without interrupting the survey mode.

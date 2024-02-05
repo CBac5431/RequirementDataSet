@@ -1,0 +1,5 @@
+MOOF-110
+P
+The spacecraft shall be capable of reorienting the jitter strip average
+for up to 3 arcmin with an accuracy of ≤0.4 arcmin relative to the
+previous orientation (amplitude and direction; 68% probability level)

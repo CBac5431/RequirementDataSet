@@ -1,0 +1,6 @@
+MOGE-035
+H/P
+Each spacecraft shall be equipped with a set of Visual Monitoring
+Camera(s) (VMC). The purpose being Public Relations effort, the
+performance (resolution, colour image, etc.), location and field of view
+shall be selected accordingly.

@@ -1,0 +1,4 @@
+MISS-130
+H
+During the DTCP, the MGA (Medium Gain Antenna) shall be pointed
+towards the Earth as defined by the Mission Timeline.

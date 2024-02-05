@@ -1,0 +1,5 @@
+MISS-135
+H
+Mission planning will ensure that during scientific operations, the
+minimum angle between the line of sight (X axis) of the telescope and
+the Earth direction shall be 23 degrees.

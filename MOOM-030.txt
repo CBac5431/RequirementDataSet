@@ -1,0 +1,4 @@
+MOOM-030
+H
+During science observations, the pointing requirements corresponding
+to the selected observation mode shall be met (section 4.4.2).

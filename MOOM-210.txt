@@ -1,0 +1,3 @@
+MOOM-210
+H/P
+The time resolution of the mission timeline shall be 1 s.

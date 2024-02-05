@@ -1,0 +1,4 @@
+MISS-025
+H/P
+Both spacecraft shall be compatible with a daily launch window of 45
+minutes.

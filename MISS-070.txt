@@ -1,0 +1,4 @@
+MISS-070
+H/P
+The spacecraft propulsion system shall support all post-launch attitude
+and orbit manoeuvres required to correct for injection errors.

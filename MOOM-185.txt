@@ -1,0 +1,7 @@
+MOOM-185
+H/P
+In case transponder/antenna toggling is initiated because no ground
+command has been received, this toggling shall ensure that all
+combinations of redundancies within the telecommand and telemetry
+system are sequentially and continuously configured for a minimum
+time of 10 minutes each.

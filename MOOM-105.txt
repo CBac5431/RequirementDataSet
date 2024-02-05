@@ -1,0 +1,5 @@
+MOOM-105
+H
+The spacecraft shall communicate, on-board and to ground, a request
+for pointing correction from the prime instrument per single pointing
+mode as defined in Annex 1 (excluding line scanning).

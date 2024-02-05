@@ -1,0 +1,4 @@
+MOOM-215
+H/P
+It shall be possible to exit from the Autonomy Mode by Ground
+Command.

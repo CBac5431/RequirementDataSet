@@ -1,0 +1,4 @@
+MOFM-115 
+H/P
+It shall be possible to adjust software parameter values for
+confirmation time and trigger by ground command.

@@ -1,0 +1,4 @@
+MISS-060
+H/P
+The spacecraft shall provide attitude information for attitude
+reconstitution by the ground.

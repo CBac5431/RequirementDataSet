@@ -1,0 +1,5 @@
+MOOF-100
+P
+The spacecraft shall be capable of reorienting the jitter strip average
+with an average frequency of one manoeuvre every 45 minutes
+throughout the nominal lifetime.

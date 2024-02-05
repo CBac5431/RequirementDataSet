@@ -1,0 +1,4 @@
+MISS-050
+H/P
+The spacecraft shall autonomously detect correct Sun-acquisition and
+switch to the solar array power mode.

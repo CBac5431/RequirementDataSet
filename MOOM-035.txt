@@ -1,0 +1,4 @@
+MOOM-035
+H
+It shall be possible to maintain the fine pointing for periods of up to 22
+hours, during which momentum unloading shall not occur.

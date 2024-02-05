@@ -1,0 +1,5 @@
+MOFM-120
+H/P
+For any on-board autonomous reconfiguration, telemetry data shall
+indicate the time and the conditions, at/under which the event
+occurred.

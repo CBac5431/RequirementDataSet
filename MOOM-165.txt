@@ -1,0 +1,4 @@
+MOOM-165
+H/P
+The survival mode shall not rely on any volatile memory (Random
+Access Memory or other) stored data.

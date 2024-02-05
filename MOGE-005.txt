@@ -1,0 +1,4 @@
+MOGE-005
+H
+The Herschel spacecraft shall support the scientific observations of
+the Herschel instruments

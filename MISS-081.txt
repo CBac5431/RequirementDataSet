@@ -1,0 +1,4 @@
+MISS-081
+H
+The Herschel spacecraft shall be compatible with a maximum
+Sun/Spacecraft/Earth angle of 40 degrees in its operational orbit.

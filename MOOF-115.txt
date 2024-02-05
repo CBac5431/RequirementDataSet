@@ -1,0 +1,6 @@
+MOOF-115
+P
+The duration, including the settling time, of a 3 arcmin amplitude jitter
+strip average reorientation shall be ≤ 5 minutes (elapsed time during
+which pointing requirements cannot be met)
+The shortest duration between two manoeuvres will be 30 min.

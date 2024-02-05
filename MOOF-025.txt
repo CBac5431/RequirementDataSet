@@ -1,0 +1,5 @@
+MOOF-025
+H/P
+The pointing budget shall demonstrate compliance of the design with
+these requirements; it shall be established according to the rules
+defined in the ESA Pointing Error Handbook (RD-1).

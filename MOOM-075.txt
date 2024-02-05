@@ -1,0 +1,6 @@
+MOOM-075
+H
+During the DTCP, the Herschel satellite shall provide all the resources
+required to operate the instruments in the operational modes defined
+in table 4.3.1.1. Such observations shall be executed at an attitude
+compliant with the attitude constraints during the DTCP .

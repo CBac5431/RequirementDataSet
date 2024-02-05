@@ -1,0 +1,4 @@
+MISS-125
+P
+The Planck spacecraft shall be designed such as to enable the Planck
+instruments to image at least 95% of the sky twice over.

@@ -1,0 +1,4 @@
+MOGE-040
+H/P
+Each spacecraft shall be equipped with a Radiation Monitor according
+to AD2-3. Its intended operation is also described in AD2-3.

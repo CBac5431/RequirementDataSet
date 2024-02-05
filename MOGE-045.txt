@@ -1,0 +1,5 @@
+MOGE-045
+H/P
+Each spacecraft shall be able to operate out of ground contact and
+follow a programme of operations loaded by the ground during the
+communication period (DTCP).

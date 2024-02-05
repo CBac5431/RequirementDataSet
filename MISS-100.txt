@@ -1,0 +1,5 @@
+MISS-100
+H/P
+Both spacecraft propulsion systems shall support the ΔV and orbit
+maintenance manoeuvres for worst case solar aspect angles of these
+manoeuvres as defined by SGEN-060.

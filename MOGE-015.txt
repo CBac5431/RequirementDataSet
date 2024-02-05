@@ -1,0 +1,5 @@
+MOGE-015
+H/P
+The spacecraft design shall enable the operational control by the
+ground segment during all mission phases and modes in both nominal
+and contingency situations.

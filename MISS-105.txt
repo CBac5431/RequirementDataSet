@@ -1,0 +1,4 @@
+MISS-105
+H/P
+The attitude constraints and restrictions shall be respected at
+separation until the end of mission.

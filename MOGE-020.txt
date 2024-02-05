@@ -1,0 +1,4 @@
+MOGE-020
+H/P
+The spacecraft shall be able to support continuous communications
+with the ground during station visibility periods.

@@ -1,0 +1,4 @@
+MOOM-050
+P
+The spacecraft shall be capable of re-pointing the spin axis to ± 10°
+away from the Sun.

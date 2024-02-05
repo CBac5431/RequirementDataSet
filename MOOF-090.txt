@@ -1,0 +1,10 @@
+MOOF-090
+H
+For slews smaller than 16 arcmin, during any of the observational
+pointing modes, the total time between initiation of the slew and the
+moment when the telescope axis has achieved the pointing
+requirements, as defined in paragraph 4.3.2.1, on the new target shall
+be less than:
+Requirement 10+SQRT (2*φ) seconds
+goal 5 + SQRT(φ) seconds
+φ being the slew angle in arcseconds.

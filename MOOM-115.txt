@@ -1,0 +1,4 @@
+MOOM-115
+H
+The correction shall only be allowed within predefined boundaries ,
+<10 arcsec around Y and Z axes.

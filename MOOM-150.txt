@@ -1,0 +1,5 @@
+MOOM-150
+H/P
+It shall maintain spacecraft and instruments in safe conditions and
+broadcast a safe mode flag to the instruments upon entry to the safe
+mode.

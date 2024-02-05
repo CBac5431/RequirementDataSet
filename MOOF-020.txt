@@ -1,0 +1,4 @@
+MOOF-020
+H/P
+Off-loading, as well as up-loading, of each reaction wheel shall be
+possible to a ground-commanded value.

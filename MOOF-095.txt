@@ -1,0 +1,5 @@
+MOOF-095
+H
+The system shall be dimensioned for operational slews of at least 90
+degrees, executed twice per day. Slews with an amplitude of 90
+degrees shall be completed within 15 min, including settling.

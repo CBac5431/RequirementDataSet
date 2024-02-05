@@ -1,0 +1,8 @@
+MOOM-130
+P
+The spacecraft shall support a calibration mode, involving the
+execution of multiple calibrations in order to establish the angles
+between a stellar reference and the instruments lines of sight such
+that the pointing requirements can be met at all possible spacecraft
+attitudes satisfying the attitude constraints of Section 4.2.7. and for all
+possible spacecraft operational conditions.

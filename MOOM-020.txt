@@ -1,0 +1,5 @@
+MOOM-020
+H
+During the Observation Period it shall be possible to point the LOS of
+the prime instrument to any target within the FOR according to any of
+the operational pointing modes as described in Annex 1.

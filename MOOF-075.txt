@@ -1,0 +1,4 @@
+MOOF-075
+H
+The maximum slew speed shall be at least 7 degrees/min when the
+slew angle is large enough to permit full angular velocity.

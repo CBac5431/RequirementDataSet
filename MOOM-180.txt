@@ -1,0 +1,5 @@
+MOOM-180
+H/P
+If no ground command has been received since more than a ground
+programmable time and after a minimum time of 60 hours,
+transponder/antenna toggling shall be initiated.

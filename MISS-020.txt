@@ -1,0 +1,7 @@
+MISS-020
+H/P
+During the launch phase, both spacecraft shall be in a minimum power
+mode using on-board batteries. All instruments are switched off with
+the exception of the launch lock of the mechanical coolers for the
+Planck S/C. Command for cryogenic valve actuation, if necessary
+during launch, could be supplied by the launch vehicle.

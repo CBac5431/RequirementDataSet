@@ -1,0 +1,6 @@
+MOOM-025
+H
+During the Telecommunication Period it should be possible to point
+the LOS of the prime instrument to any selected target within the FOR
+whose coordinates are compatible with telecommunication phase
+Earth-pointing requirements.
