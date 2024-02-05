@@ -1,0 +1,4 @@
+SMAC-095
+H/P
+The ACMS shall deliver and receive the signals necessary for the
+Herschel and Planck instruments.

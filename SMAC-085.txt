@@ -1,0 +1,6 @@
+SMAC-085
+H/P
+The ACMS shall provide the capability of autonomous attitude
+manoeuvres, including science observations, slews, tracking,
+wheel off-loading, etc., according to a pre-defined sequence as
+required by the mission operations.

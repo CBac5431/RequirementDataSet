@@ -1,0 +1,5 @@
+SMRC-015
+H/P
+The thrusters shall provide the necessary torques for as minimum:
+- angular momentum unloading during relevant mission phases and
+modes.

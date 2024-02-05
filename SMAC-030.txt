@@ -1,0 +1,5 @@
+SMAC-030
+H/P
+The subsystem shall acquire and control the attitude necessary
+for the correct execution of the various orbit insertion, correction
+and maintenance manoeuvres.

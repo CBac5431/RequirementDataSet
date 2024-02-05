@@ -1,0 +1,4 @@
+SMAC-090
+H/P
+The number of necessary commands to execute the predefined
+sequences shall be minimised.

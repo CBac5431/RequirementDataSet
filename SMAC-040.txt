@@ -1,0 +1,5 @@
+SMAC-040
+H/P
+During all phases of the mission the ACMS shall be capable of
+acquiring and maintaining any attitude as required by the
+sequence of mission operations.

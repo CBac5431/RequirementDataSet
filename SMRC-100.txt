@@ -1,0 +1,4 @@
+SMRC-100
+H/P
+The design shall not require welding inside the SVM to complete
+the RCS assembly.

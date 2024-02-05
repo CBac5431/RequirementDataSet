@@ -1,0 +1,6 @@
+SMRC-115
+H/P
+All materials used in contact with propellants/simulant propellants
+shall be mutually compatible. All materials selected shall, in
+particular w.r.t. the mission duration, neither degrade and injure
+functionality of components nor degrade propellants.

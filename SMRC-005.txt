@@ -1,0 +1,7 @@
+SMRC-005
+H/P
+The Reaction Control Subsystem (RCS) shall provide the necessary
+forces and torques in order to achieve spacecraft linear and angular
+momentum changes necessary for orbit transfer/insertion/
+maintenance and attitude control, respectively, during all phases of the
+mission.

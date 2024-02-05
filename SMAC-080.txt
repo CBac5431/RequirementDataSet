@@ -1,0 +1,5 @@
+SMAC-080
+H/P
+The autonomy capability shall be present during all mission
+phases and modes and it shall be possible to deactivate/activate
+this capability by ground command.

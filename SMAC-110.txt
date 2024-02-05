@@ -1,0 +1,5 @@
+SMAC-110
+H/P
+The attitude pointing and control shall be stable in the presence of
+perturbation torques, spacecraft flexible modes or liquid slosh during
+all mission phases and operational modes.

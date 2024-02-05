@@ -1,0 +1,4 @@
+SMRC-135
+H/P
+The design of the thruster control valves shall be such as to avoid
+a valve-open failure case.

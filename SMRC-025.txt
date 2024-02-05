@@ -1,0 +1,4 @@
+SMRC-025
+H/P
+The total tank volume shall allow for a propellant growth of 20 %,
+subject to tank availability.

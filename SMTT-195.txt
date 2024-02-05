@@ -1,0 +1,5 @@
+SMTT-195
+H/P
+The RF-suitcase shall contain flight representative hardware sufficient
+to test all up- and downlinks for both functional and performance
+characteristics.

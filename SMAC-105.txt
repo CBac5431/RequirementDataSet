@@ -1,0 +1,4 @@
+SMAC-105
+H/P
+The ACMS pointing accuracy requirements shall comply with the
+overall spacecraft pointing requirements as specified in Section 4.3.2.

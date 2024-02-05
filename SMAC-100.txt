@@ -1,0 +1,6 @@
+SMAC-100
+H/P
+The ACMS shall transmit via telemetry unambiguous status
+information of all command and programme controlled variables
+and modes and of all parameters required for subsystem
+monitoring and performance evaluation.

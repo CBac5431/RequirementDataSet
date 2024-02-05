@@ -1,0 +1,5 @@
+SMRC-035
+H/P
+The RCS shall include sets of thrusters, one nominal and one
+redundant (not necessarily on different branches), each set shall
+be capable of performing a full mission profile.

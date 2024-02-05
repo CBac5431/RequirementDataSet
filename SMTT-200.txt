@@ -1,0 +1,5 @@
+SMTT-200
+H/P
+The RF-suitcase shall enable the verification of all telemetry,
+telecommand and ranging functions and combinations thereof, as well
+as spectral analysis.

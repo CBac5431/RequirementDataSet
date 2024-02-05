@@ -1,0 +1,5 @@
+SMRC-065
+H/P
+The location and direction of the thrusters shall be such as to
+avoid, or at least minimise, contamination and plume
+impingement effects.

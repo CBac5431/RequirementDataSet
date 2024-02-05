@@ -1,0 +1,6 @@
+SMRC-055
+H/P
+The layout of the RCS and the arrangement of the tanks shall
+ensure a symmetrical depletion of the propellant in all tanks
+during all thruster firings in-flight in order to minimise the lateral
+shift of the spacecraft COM.

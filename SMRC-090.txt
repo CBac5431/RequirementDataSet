@@ -1,0 +1,8 @@
+SMRC-090
+H/P
+Adequate means for determination of the remaining propellant
+quantities shall be provided. It shall be possible to achieve an
+accuracy:
+- better than 5% of the remaining propellant, or
+- at least equal to the amount of propellant required for three
+months of operational life

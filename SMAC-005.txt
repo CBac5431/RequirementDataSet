@@ -1,0 +1,5 @@
+SMAC-005
+H/P
+The ACMS shall be able to provide all the necessary capabilities to
+satisfy the attitude and orbit control and measurement requirements of
+all mission phases, operational modes and operational functions.

@@ -1,0 +1,6 @@
+SMAC-070
+H/P
+The ACMS shall support the survival mode according to the
+requirements of Section 4.2. to protect the spacecraft and
+payload in case of hazardous deviations from the safe attitude
+conditions.

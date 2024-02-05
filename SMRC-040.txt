@@ -1,0 +1,5 @@
+SMRC-040
+H/P
+The design of the RCS shall be such that a single component/part
+failure cannot cause the failure of functions which are vital for
+mission success.

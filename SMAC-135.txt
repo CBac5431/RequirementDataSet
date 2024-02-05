@@ -1,0 +1,4 @@
+SMAC-135
+H/P
+All attitude and orbit control and measurement functions shall be
+redundant.

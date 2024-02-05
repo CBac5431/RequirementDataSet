@@ -1,0 +1,4 @@
+SMRC-085
+H/P
+The location of the pyrovalves shall allow for an easy access for
+initiator and booster installation during the launch preparation.

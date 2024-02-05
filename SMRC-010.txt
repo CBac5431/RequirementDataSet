@@ -1,0 +1,8 @@
+SMRC-010
+H/P
+The thrusters shall provide the forces to establish all post-launch
+spacecraft velocity increments for:
+- initial launcher injection error and perigee velocity correction
+- follow-on orbit correction/trim manoeuvres
+- operational orbit injection (if applicable)
+- orbit maintenance of the operational orbit

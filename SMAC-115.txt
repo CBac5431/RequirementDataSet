@@ -1,0 +1,5 @@
+SMAC-115
+H/P
+Under worst case conditions with respect to spacecraft mass
+properties and perturbation torques, wheel off-loading shall not be
+necessary more than once per day.

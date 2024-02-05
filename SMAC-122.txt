@@ -1,0 +1,8 @@
+SMAC-122
+H/P
+The ACMS design shall ensure adequate margins for stability and
+flexure rejection, as a minimum the following margins shall apply:
+gain margin: 6 dB
+phase margin: 30 degrees
+flexure rejection margin: 6 dB for flexible modes which are gain
+stabilised

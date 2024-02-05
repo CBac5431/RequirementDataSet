@@ -1,0 +1,7 @@
+SMRC-110
+H/P
+Components (e.g. valves, regulators) using sliding surfaces for
+their actuation and operation as well as components with bellows
+inside the fluid containing part are not allowed. For those which
+cannot be avoided with reasonable effort, a rationale for retention
+shall be prepared which shall be subject to approval by ESA.

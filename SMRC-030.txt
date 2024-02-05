@@ -1,0 +1,4 @@
+SMRC-030
+H/P
+The residual forces during manoeuvres which require pure torques
+shall be minimised.

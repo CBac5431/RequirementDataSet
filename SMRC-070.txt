@@ -1,0 +1,5 @@
+SMRC-070
+H/P
+The characteristics of the thrusters and their accommodation on
+the spacecraft shall not cause any deleterious effects on either
+the spacecraft or the science instruments during operation.

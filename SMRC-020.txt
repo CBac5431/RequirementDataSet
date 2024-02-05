@@ -1,0 +1,6 @@
+SMRC-020
+H/P
+The RCS shall supply sufficient telemetry data to provide
+unambiguous status information of all command and programme
+controlled variables and modes and of all parameters required for
+subsystem monitoring and performance evaluation.

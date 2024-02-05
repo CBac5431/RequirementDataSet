@@ -1,0 +1,4 @@
+SMAC-125
+H/P
+The ACMS shall be fully operational at start up 20 seconds after
+separation.

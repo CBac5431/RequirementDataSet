@@ -1,0 +1,5 @@
+SMAC-055
+H
+The ACMS shall provide slewing and scanning capability of the
+spacecraft as required for scientific or spacecraft operations in
+accordance with the requirements of Section 4.

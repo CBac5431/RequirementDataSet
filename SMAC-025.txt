@@ -1,0 +1,5 @@
+SMAC-025
+H/P
+Once in the operational orbit, the ACMS shall allow for orbit
+maintenance manoeuvres to be executed at monthly (TBC)
+intervals.

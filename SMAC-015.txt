@@ -1,0 +1,6 @@
+SMAC-015
+H/P
+The ACMS shall allow a first orbit correction manoeuvre to be
+performed within 6 hours after separation in order to compensate
+for the launcher upper stage injection errors and the perigee
+velocity variation and to reach the nominal transfer orbit.

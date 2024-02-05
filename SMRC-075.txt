@@ -1,0 +1,4 @@
+SMRC-075
+H/P
+Fill and drain valve locations shall be chosen to facilitate loading
+and unloading of propellants, pressurants and purging fluids.

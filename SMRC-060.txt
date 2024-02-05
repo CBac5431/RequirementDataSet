@@ -1,0 +1,5 @@
+SMRC-060
+H/P
+The thruster configuration shall be optimised with respect to
+overall manoeuvre performance so that propellant consumption
+for attitude and orbit control is minimised.

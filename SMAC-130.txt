@@ -1,0 +1,4 @@
+SMAC-130
+H/P
+Orbit control shall be open-loop under ground or stored time-tagged
+commands.

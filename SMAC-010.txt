@@ -1,0 +1,4 @@
+SMAC-010
+H/P
+The ACMS shall put the spacecraft within its attitude constraints
+in less than 5 minutes after separation.

@@ -1,0 +1,6 @@
+SMAC-120
+H/P
+The execution of the ACMS survival mode shall, once started, not be
+interruptible by an external command: recovery from this mode shall
+only be possible after a stable Sun-pointing attitude has been
+reacquired.

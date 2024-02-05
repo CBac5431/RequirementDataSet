@@ -1,0 +1,6 @@
+SMTT-205
+H/P
+The RF-suitcase shall be a self-contained item easy to transport, and
+shall include flight representative CDMS and RF units as well as the
+RF switches and cables. The suitcase shall allow to control and
+monitor all integrated units.

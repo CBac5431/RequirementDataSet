@@ -1,0 +1,4 @@
+SMAC-075
+H/P
+It shall provide the capability for detecting and isolating any
+anomaly resulting in the loss of nominal pointing.

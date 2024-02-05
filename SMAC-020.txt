@@ -1,0 +1,4 @@
+SMAC-020
+H/P
+The ACMS shall allow for additional orbit correction manoeuvres
+(trim manoeuvres) at any time during the transfer phase to L2.

@@ -1,0 +1,6 @@
+SMRC-080
+H/P
+Test port locations shall be compatible with all requirements for
+testing. Interfaces shall be provided through the spacecraft skin
+connector for providing critical value states (pressure,
+temperature, etc.) independent of spacecraft power.

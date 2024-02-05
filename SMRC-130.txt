@@ -1,0 +1,5 @@
+SMRC-130
+H/P
+Heating capability shall be provided to prevent condensation of
+propellants in the pressurant gas control assembly / circuitry
+upstream of the non-return valves , if applicable (Propellant type )

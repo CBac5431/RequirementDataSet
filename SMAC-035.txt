@@ -1,0 +1,4 @@
+SMAC-035
+H/P
+The ACMS shall provide a stable attitude before and after the
+deployment of flexible elements (if applicable).

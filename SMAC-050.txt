@@ -1,0 +1,4 @@
+SMAC-050
+H/P
+The ACMS shall provide the science observation modes as
+required during the operational phase according to Sections 4.2.

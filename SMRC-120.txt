@@ -1,0 +1,5 @@
+SMRC-120
+H/P
+Pyrovalves shall have provisions, which prevents the actuator gas
+from flowing in the propellant or gas feed line passages and shall
+comply with requirements in section 5.6.2.4.

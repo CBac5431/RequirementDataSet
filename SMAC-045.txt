@@ -1,0 +1,6 @@
+SMAC-045
+H/P
+During the commissioning and calibration phases , as well as
+during the operational phase, the ACMS shall provide the
+capability to calibrate sensors according to the requirements in
+Section 4.3.2.
