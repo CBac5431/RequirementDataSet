@@ -1,0 +1,4 @@
+SENV-185
+H/P
+The power converter frequency bands shall be selected to minimise
+potential interference with the bandwidth of payload equipment.

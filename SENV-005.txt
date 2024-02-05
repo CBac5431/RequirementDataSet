@@ -1,0 +1,7 @@
+SENV-005
+H/P
+On ground, during integration, handling and transportation, the
+environment, with the exception of bake-out, shall be such as to be
+significantly less severe than launch and orbit conditions with the
+exception of the thermal environment of the Cryostat for Herschel and
+the Planck sorption cooler radiator.

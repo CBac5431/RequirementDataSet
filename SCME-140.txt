@@ -1,0 +1,5 @@
+SCME-140
+H/P
+As a minimum, properties such as strength, shock impulse,
+redundancy, performance output, sealing and operation at
+temperature extremes under vacuum must have been demonstrated.

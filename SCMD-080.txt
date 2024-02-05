@@ -1,0 +1,18 @@
+SCMD-080
+H/P
+The total spacecraft mass shall be minimised wherever reasonable
+and shall include, at the beginning of the Phase B, a margin on each
+spacecraft elements depending on the development status of those
+elements as follows :
+- Completely new developments 20%
+- new developments derived from existing hardware 15%
+- existing units requiring minor/medium modification
+or units passed PDR 10%
+- existing units or units passed CDR 5%
+The propellant masses shall be determined on the basis of dry mass
+including the above contingencies and shall itself include the lifetime
+margins (section 5.3.1).
+- launcher dispersion compensation propellant 5%
+- orbit insertion propellant 0%
+- orbit maintenance propellant 50%
+- angular momentum management/attitude control 50%

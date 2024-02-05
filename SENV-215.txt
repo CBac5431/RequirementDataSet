@@ -1,0 +1,5 @@
+SENV-215
+H/P
+The applicable solid particle in-orbit environment is given in AD5-3.
+The spacecraft shall be designed to minimise the effect of this
+environment.

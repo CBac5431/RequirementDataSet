@@ -1,0 +1,4 @@
+SCME-030
+H/P
+The tolerances of the Steady State Parameters shall be specified and
+demonstrated compatible with the functional needs.

@@ -1,0 +1,5 @@
+SENV-110
+H/P
+The spacecraft design shall withstand the effects of SEU's without
+interrupting the on-going operation and it shall include proper error
+detection, transient filters and correction schemes.

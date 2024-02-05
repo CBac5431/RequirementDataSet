@@ -1,0 +1,4 @@
+SCMD-055
+H/P
+The design loads applicable to units shall be greater than or equal to
+the design loads of the supporting structure.

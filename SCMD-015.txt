@@ -1,0 +1,4 @@
+SCMD-015
+H/P
+Each satellite shall be able to withstand the mechanical environment
+as deduced from the coupled analysis with the launcher.

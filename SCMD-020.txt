@@ -1,0 +1,5 @@
+SCMD-020
+H/P
+Under worst case combinations of mechanical and thermal loads and
+after application of the relevant safety factors ( SF ) , the margins of
+safety ( MOS ) shall be positive .

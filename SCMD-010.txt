@@ -1,0 +1,4 @@
+SCMD-010
+H/P
+The eigen frequencies of compact equipment and boxes in hardmounted
+conditions shall be above 140 Hz.

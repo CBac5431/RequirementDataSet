@@ -1,0 +1,5 @@
+SCMD-035
+H/P
+The spacecraft structure shall withstand the complete set of tests at
+qualification level with sufficient margins without the need of any
+refurbishment for flight.

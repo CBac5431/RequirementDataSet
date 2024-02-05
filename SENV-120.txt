@@ -1,0 +1,5 @@
+SENV-120
+H/P
+Any device used as memory (EDAC, registers …) for which the correct
+functioning is critical to mission objectives, mission life or spacecraft
+safety, shall have protection against SEU effects.

@@ -1,0 +1,5 @@
+SENV-085
+H/P
+The satellite shall be designed to withstand the doses predicted for a 2
+times the nominal lifetime of the spacecraft except for the solar array
+sizing.

@@ -1,0 +1,5 @@
+SCME-135
+H/P
+The use of pyrotechnics shall be avoided. If no alternative exists, the
+use of pyrotechnics in the design shall be duly justified by the
+contractor and approved by ESA.

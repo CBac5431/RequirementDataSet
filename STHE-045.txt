@@ -1,0 +1,5 @@
+STHE-045
+H/P
+The internal thermal design of a unit shall envelope the unit
+qualification test temperature range at TRP and STP for the operating
+and non-operating modes of this unit.

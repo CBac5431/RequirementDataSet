@@ -1,0 +1,4 @@
+SCMD-085
+H/P
+The total mass of the Herschel / Planck composite shall include an
+ESA reserve of 100 kg.

@@ -1,0 +1,6 @@
+SCME-085
+H/P
+Motors shall withstand their stalling torques for a period of time of at
+least 24 hours under the maximum predicted operating voltage without
+degradation under the hottest qualification environmental
+temperatures.

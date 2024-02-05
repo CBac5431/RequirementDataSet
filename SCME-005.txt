@@ -1,0 +1,5 @@
+SCME-005
+H/P
+The mechanisms shall comply with the requirements of AD6-10. In
+case of conflict between requirements in AD6-10 and the requirements
+in the present document, the latter ones will have precedence.

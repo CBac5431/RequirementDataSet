@@ -1,0 +1,4 @@
+SENV-025
+H/P
+The mechanical environment for the launch phase shall be derived
+from the Launcher Coupled Loads Analysis.

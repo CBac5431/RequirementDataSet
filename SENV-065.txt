@@ -1,0 +1,5 @@
+SENV-065
+H/P
+The spacecraft shall be designed to withstand a relative humidity (RH)
+without performance degradation of 45 % RH to 65 % RH , noncondensing,
+and for two weeks a relative humidity of 95 % RH , noncondensing.

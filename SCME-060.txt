@@ -1,0 +1,5 @@
+SCME-060
+H/P
+Hold-down and release mechanisms shall be capable of being
+operated the number of times required by on-ground and in-orbit
+operations plus a margin of at least 10 operations.

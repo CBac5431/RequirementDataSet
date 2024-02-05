@@ -1,0 +1,5 @@
+SCME-035
+H/P
+The parameters restricting the design of the Dynamical Variables shall
+be established and demonstrated compatible with the functional needs
+at system level.

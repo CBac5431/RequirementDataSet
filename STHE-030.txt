@@ -1,0 +1,5 @@
+STHE-030
+H/P
+The TCS predicted temperature range shall be enveloped by the
+relevant TCS design temperature range with a TCS design margin,
+which shall be justified by the spacecraft Contractor.

@@ -1,0 +1,7 @@
+SCMD-075
+H/P
+The material Design Allowable shall correspond to the A values as
+defined in the applicable document reference AD6-18, MIL-HDBK-5.
+The contractor shall perform material testing as necessary to establish
+the Design Allowable. The test program and interpretation of the
+results are subject to ESA approval.

@@ -1,0 +1,5 @@
+SENV-090
+H/P
+The components and their shielding shall be compatible with the
+above requirement such that the radiation dose will not cause failures
+or produce unacceptable changes in performance.

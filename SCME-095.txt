@@ -1,0 +1,5 @@
+SCME-095
+H/P
+Mechanisms shall not require any periodic maintenance for their entire
+storage period. Activation and maintenance after a period of storage
+is acceptable to verify the functional performances.

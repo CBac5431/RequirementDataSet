@@ -1,0 +1,5 @@
+SENV-165
+H/P
+The spacecraft electromagnetic emissions and susceptibility shall
+comply with the payload requirements listed in the IID’s Part B outside
+the DTCP

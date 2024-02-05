@@ -1,0 +1,4 @@
+SCMD-095
+H/P
+Optical references shall be used for alignment of the focal plane
+instruments, telescopes and critical components.

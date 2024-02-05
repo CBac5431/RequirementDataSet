@@ -1,0 +1,15 @@
+SENV-155
+H/P
+The spacecraft design and component selection shall take these
+effects into account and shall ensure that these effects do not cause a
+degraded performance or hazardous situations, which could lead to
+loss of mission.
+The spacecraft shall withstand without being disturbed, the following
+levels:
+- For Conducted Electrostatic Discharge (current injected anywhere
+in the structure):
+	- Energy: 15 mJ
+	- Voltage: 15 kV (may be reduced to 4 kV if risk for is apparent)
+- For Radiated Electrostatic Discharge (spark gap at 30 cm distance)
+	- Energy: 15 mJ
+	- Voltage: 15 kV

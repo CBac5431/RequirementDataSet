@@ -1,0 +1,4 @@
+SCMD-005
+H/P
+Structure resonance frequencies shall meet the launcher requirements
+as specified in AD6-1.

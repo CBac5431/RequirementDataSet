@@ -1,0 +1,4 @@
+SENV-140
+H/P
+Spacecraft design and materials selected shall be such as to ensure
+that no parts of the spacecraft are charged to high potentials.

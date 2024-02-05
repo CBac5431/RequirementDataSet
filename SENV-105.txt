@@ -1,0 +1,5 @@
+SENV-105
+H/P
+The spacecraft design and component selection shall be such as to
+minimise these effects, including any necessary means to ensure the
+most rapid restoration of nominal performance.

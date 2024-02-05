@@ -1,0 +1,8 @@
+STHE-155
+H/P
+The TCS shall be testable on ground. If special equipments are
+required to evacuate the heat during the spacecraft functional tests
+under ambient environment, they shall be compatible with the
+cleanliness requirements. No TCS item shall prevent the spacecraft
+from being operated/tested under an attitude required by the thermal
+environment test.

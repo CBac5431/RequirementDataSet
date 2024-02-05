@@ -1,0 +1,4 @@
+SENV-010
+H/P
+No induced environment shall lead to a degradation of the spacecraft
+and the instrument performances

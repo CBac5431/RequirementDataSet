@@ -1,0 +1,5 @@
+SCME-010
+H/P
+The mechanism, with its electronics for drive and control shall include
+monitoring equipment to provide data describing the status of the
+mechanism and/or electronics.

@@ -1,0 +1,4 @@
+SENV-170
+H/P
+The composite electromagnetic emissions and susceptibility shall
+comply with the launcher requirements (AD6-1).

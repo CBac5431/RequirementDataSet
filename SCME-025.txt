@@ -1,0 +1,6 @@
+SCME-025
+H/P
+Global and local envelope volumes shall be defined for all moving
+parts within which they are free to move. It shall be demonstrated at
+system level and at unit level that these envelopes are sufficient and
+do not lead to mechanical interference.

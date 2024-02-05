@@ -1,0 +1,4 @@
+SCMD-090
+H/P
+For each spacecraft an alignment plan and budgets shall be
+established and maintained by the prime contractor.

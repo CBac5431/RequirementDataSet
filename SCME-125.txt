@@ -1,0 +1,7 @@
+SCME-125
+H/P
+Windings shall be designed and tested to withstand a high voltage of
+500 V DC / 1 min (for operating voltage up to 50 V) and 1500 V DC
+(for higher operating voltage), applied between each other or between
+windings and the structure for a period of time of at least two minutes
+without causing disruptive charges.

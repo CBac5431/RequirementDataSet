@@ -1,0 +1,4 @@
+SENV-135
+H/P
+Protection against latch-up and de-latching shall be provided for
+devices showing a sensitivity to latch-up.

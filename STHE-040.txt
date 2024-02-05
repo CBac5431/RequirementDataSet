@@ -1,0 +1,7 @@
+STHE-040
+H/P
+Fulfilment of all the functional performances (operational and nonoperational)
+of the unit is mandatory for the complete acceptance test
+range. Partial deviation from the performance requirements may be
+accepted within the item qualification test margins, provided they do
+not affect the interfaces to the S/C and they are reversible.

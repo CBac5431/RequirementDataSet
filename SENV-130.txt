@@ -1,0 +1,5 @@
+SENV-130
+H/P
+The processor design shall ensure that the processor internal registers
+are refreshed at a rate sufficient to avoid cumulation of deposited
+charges leading to errors.

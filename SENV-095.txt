@@ -1,0 +1,5 @@
+SENV-095
+H/P
+For the design of the solar array and the determination of its
+degradation during the mission, the total equivalent fluence of 1 MeV
+electrons shall be taken into account for the extended lifetime.

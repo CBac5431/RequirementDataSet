@@ -1,0 +1,5 @@
+SENV-020
+H/P
+Manufacturing, handling and transportation loads (except for the
+MGSE interface points themselves) as well as test loads shall not be
+design drivers.

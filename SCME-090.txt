@@ -1,0 +1,7 @@
+SCME-090
+H/P
+Mechanisms shall be capable of being tested representatively on
+ground and of being operated in an ambient environment. However, if
+required, flushing with inert gas may be designed to protect parts of
+the mechanism, which are sensitive to operation in air due to the
+presence of moisture, particles or other sources of contamination.

@@ -1,0 +1,5 @@
+SCME-145
+H/P
+The initiation chain of all Electro-Explosive Devices (EED) shall
+incorporate inhibits compatible with the launcher safety requirements
+for hazardous devices.

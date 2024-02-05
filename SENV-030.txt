@@ -1,0 +1,4 @@
+SENV-030
+H/P
+The mechanical dynamic test environment shall meet the
+requirements of the Ariane 5 User’s Manual (AD6-1).

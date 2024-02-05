@@ -1,0 +1,14 @@
+SCMD-105
+H/P
+The alignment stability of the spacecraft shall be commensurate with
+all spacecraft performance requirements (pointing, optical) and the
+following causes of misalignments shall be taken into account:
+- Setting due to mounting procedures
+- Setting due to launch distortions
+- Gravity release
+- Deformations caused by orbital temperature variation over the
+complete mission (including initial cooldown)
+- Ageing
+- Creep
+- Composite structure deformations due to moisture release and
+radiation.

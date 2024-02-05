@@ -1,0 +1,6 @@
+STHE-012
+H/P
+For the cryogenics temperature range, the definitions are identical,
+except for the temperature margins between various temperature
+ranges (Qualification, Acceptance...) which are depending of the
+temperature levels and the heat budgets .

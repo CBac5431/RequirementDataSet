@@ -1,0 +1,4 @@
+SCME-105
+H/P
+Sliding surfaces shall be avoided. If they cannot be avoided, lubricated
+hard surface coatings shall be applied to prevent fretting.

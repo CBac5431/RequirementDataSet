@@ -1,0 +1,12 @@
+SCMD-025
+H/P
+The structure shall withstand at element, subassembly, or complete
+spacecraft level the following:
+- the ultimate loads without rupture, collapse or permanent
+deformations that impact the integrity of other parts or the system
+performance.
+- the yield loads, where applicable, without permanent deformation
+or any plastic deformation resulting in performance degradation.
+- the buckling loads without elastic buckling or collapse taking into
+account a non perfection of the failing element, e.g. by knockdown
+factors.

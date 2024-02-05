@@ -1,0 +1,8 @@
+SCMD-040
+H/P
+Safety Factors (SF) shall account for inaccuracies in predicted
+allowable and applied stresses due to:
+- Analysis uncertainties
+- Manufacturing tolerances
+- Scatter in material properties
+- Setting at interface

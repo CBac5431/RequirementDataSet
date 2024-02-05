@@ -1,0 +1,4 @@
+SENV-055
+H/P
+The in-orbit environment shall be derived from the Mission Analysis
+Document (AD5-2).

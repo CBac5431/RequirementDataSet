@@ -1,0 +1,6 @@
+SENV-210
+H/P
+The contractor shall support an EMC Review Board consisting of
+experimenters, Industry and ESA in order to review the
+Spacecraft/Payload EMC performance and to advise and seek
+solutions to EMC when needed.

@@ -1,0 +1,6 @@
+SCME-075
+H/P
+Off-load mechanisms, if used, shall be capable of being operated
+manually for protection during handling or transportation. Such
+attachments as required for manual operation may be removable
+provided that removal does not compromise the built of the equipment.

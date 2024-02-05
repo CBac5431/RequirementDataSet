@@ -1,0 +1,5 @@
+SENV-125
+H/P
+All spacecraft processor semiconductor memories and registers shall
+implement Single Error Correction and Double Error Detection
+(SECDED) for each smallest addressable unit in memory.

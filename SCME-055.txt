@@ -1,0 +1,5 @@
+SCME-055
+H/P
+In addition to the limit/design loads specified in Section 5.6.1.4 the
+structural parts of the mechanisms shall withstand the loads induced
+by its operation.

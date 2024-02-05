@@ -1,0 +1,4 @@
+SCME-065
+H/P
+Mechanisms shall be simple and self-locking and be easily resettable
+for ground testing in case of latches for post-deployment latching.

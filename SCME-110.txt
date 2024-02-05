@@ -1,0 +1,6 @@
+SCME-110
+H/P
+Mechanisms shall only employ lubricants that are qualified according
+to procedures compliant with ESA PA requirements. Dry lubricants are
+preferred. Use of liquid lubricants shall be fully justified and approved
+by ESA.

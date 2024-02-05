@@ -1,0 +1,4 @@
+STHE-010
+H/P
+In the conventional temperature range, the following definition and
+thermal control requirements shall apply .

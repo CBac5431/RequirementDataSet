@@ -1,0 +1,4 @@
+SCME-070
+H/P
+Mechanisms shall not be capable of being driven in an anomalous and
+non-recoverable configuration.

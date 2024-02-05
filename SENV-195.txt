@@ -1,0 +1,5 @@
+SENV-195
+H/P
+A 6 dB interference margin shall exist between susceptibility and
+specified environment,except for any pyrotechnic devices where this
+margin shall be 20 dB.

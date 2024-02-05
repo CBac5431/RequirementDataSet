@@ -1,0 +1,4 @@
+SCME-015
+H/P
+The monitoring data shall be accessible to the spacecraft telemetry at
+any time and shall be of the absolute type.

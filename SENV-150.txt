@@ -1,0 +1,4 @@
+SENV-150
+H/P
+The exposed harness di-electric charging shall be taken into account
+and appropriate design provisions shall be taken.

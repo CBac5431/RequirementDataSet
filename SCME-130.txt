@@ -1,0 +1,4 @@
+SCME-130
+H/P
+Torsional loads shall not be applied to electrical cables, which change
+their configuration, e.g. wires around a hinge.

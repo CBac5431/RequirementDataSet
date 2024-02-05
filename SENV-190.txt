@@ -1,0 +1,4 @@
+SENV-190
+H/P
+A frequency control plan shall be established and maintained as part
+of the EMC programme.

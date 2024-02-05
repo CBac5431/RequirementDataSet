@@ -1,0 +1,4 @@
+SCMD-060
+H/P
+The interfaces shall be designed against the design loads of the
+attached items applied at the centre of mass of these items.

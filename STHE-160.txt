@@ -1,0 +1,6 @@
+STHE-160
+H/P
+Venting of all the cavities including the interspacing of the MLI shall be
+designed to avoid damaging overpressure during the ascent. The
+method of venting shall prevent the release of contaminants toward
+the sensitive components of the payload or of the spacecraft.

@@ -1,0 +1,4 @@
+SENV-145
+H/P
+All spacecraft surfaces exposed to the plasma environment shall be
+conductive and grounded to the spacecraft structure.

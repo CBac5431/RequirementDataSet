@@ -1,0 +1,10 @@
+SENV-035
+H/P
+The spacecraft shall be designed to withstand all thermal
+environments encountered during its entire life, including:
+a) Integration, transportation and testing, including bake-out
+b) Spacecraft preparation at the launch site
+c) pre-launch phase with the spacecraft under the fairing.
+d) ascent phase including the coast phase
+e) in-orbit operations from launcher separation until the end of the
+mission

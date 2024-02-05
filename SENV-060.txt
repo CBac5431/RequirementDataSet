@@ -1,0 +1,4 @@
+SENV-060
+H/P
+The environments under a) above shall not be design drivers, except
+for the bake-out.

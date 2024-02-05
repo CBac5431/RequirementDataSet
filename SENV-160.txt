@@ -1,0 +1,8 @@
+SENV-160
+H/P
+The spacecraft shall not be susceptible to self-generated
+electromagnetic interference and ensure satisfactory payload
+performance during the mission, as well as non-hazardous operation
+of the spacecraft in ground test and launch environment. The term
+EMC shall cover all frequencies (including DC) which fall in either the
+Payload, Spacecraft or Launcher bandwidth.

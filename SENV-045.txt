@@ -1,0 +1,5 @@
+SENV-045
+H/P
+The constraints applicable to c) and d) above shall be derived from a
+specific thermal analysis of the spacecraft integrated with the launcher
+Analysis (under the responsibility of ARIANESPACE).

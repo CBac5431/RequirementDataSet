@@ -1,0 +1,4 @@
+SCMD-100
+H/P
+The optical references shall be accessible during module and system
+AIT operations.

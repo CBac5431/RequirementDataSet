@@ -1,0 +1,7 @@
+SCME-020
+H/P
+During launch, the deployables must be contained within the limits of
+the dynamic envelope of the allocated space within the launch vehicle.
+In this configuration, all deployable and movable assemblies shall be
+properly restrained to avoid excessive loads or damage by contact or
+excessive amplification of vibration.

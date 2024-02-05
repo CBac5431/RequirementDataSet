@@ -1,0 +1,3 @@
+SENV-205
+H/P
+Signal, power and data lines and their returns shall be separated.

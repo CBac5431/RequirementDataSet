@@ -1,0 +1,5 @@
+SCME-115
+H/P
+Emergency mechanical end stops shall be designed to prevent a
+moving part from protruding from the volume envelopes defined in
+Section 5.6.2.1.

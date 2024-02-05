@@ -1,0 +1,5 @@
+SCMD-110
+H/P
+The stability analysis shall be budgeted according to contributions as
+specified. Each potential cause of misalignment shall be compliant
+with its allocation.

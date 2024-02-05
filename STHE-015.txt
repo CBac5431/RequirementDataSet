@@ -1,0 +1,7 @@
+STHE-015
+H/P
+The TRP shall be selected by the unit thermal designer in order to be
+the most representative of the unit temperature.
+The TRP shall be instrumented during the Qualification/Acceptance
+testing of the unit and during the TB/TV test at system level and, as far
+as operationally required, for the flight.

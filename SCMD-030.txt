@@ -1,0 +1,6 @@
+SCMD-030
+H/P
+Under the design loads and where the mass of each unit or
+component is set at the maximum allocated, the force fluxes at the
+launcher interface shall meet the launcher requirements as specified
+in AD6-1.

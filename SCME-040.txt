@@ -1,0 +1,4 @@
+SCME-040
+H/P
+The mechanisms shall comply with the safety requirements of
+launcher, launch range and spacecraft.

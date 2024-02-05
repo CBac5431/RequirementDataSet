@@ -1,0 +1,6 @@
+SCMD-070
+H/P
+The margin of safety shall be calculated as follows :
+	Allowable load or stress
+MOS= ------------------------------------- - 1.0
+	Applicable load or stress

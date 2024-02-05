@@ -1,0 +1,4 @@
+SCME-045
+H/P
+The structural parts of the mechanisms shall meet the requirements
+specified in Section 5.6.1.

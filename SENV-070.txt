@@ -1,0 +1,4 @@
+SENV-070
+H/P
+The spacecraft shall be designed to withstand any external air
+pressure between ambient (0.105 MPa) and vacuum (< 10-4 Pa).

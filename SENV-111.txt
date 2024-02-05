@@ -1,0 +1,4 @@
+SENV-111
+H/P
+The prediction of Single Event Upset ( SEU ) effects and rates shall be
+based on the Linear Energy Transfer ( LET ) spectrum given in AD5-1.

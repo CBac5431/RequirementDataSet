@@ -1,0 +1,9 @@
+SENV-100
+H/P
+Components shall be qualified (either based on existing or new test
+data) to withstand the doses predicted according to SENV-085.
+Radiation testing shall be included in the lot acceptance testing, if the
+margin is small and if the variation of radiation resistance between lots
+is large or insufficiently known. An exception to this requirement is the
+solar cells, which shall be qualified according to applicable documents
+(AD6-8/1 and AD6-8/2).

@@ -1,0 +1,6 @@
+SENV-180
+H/P
+Good and reliable bonds shall be provided between the various parts
+of any electronic box, connectors, harness shields, structure including
+external booms, thermal blankets (foil and MLI) and the spacecraft
+structure.

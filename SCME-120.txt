@@ -1,0 +1,4 @@
+SCME-120
+H/P
+The mechanisms shall comply with the relevant power supply and
+harness requirements specified in Sections 6.5 and 6.11, respectively.

@@ -1,0 +1,4 @@
+SENV–040
+H/P
+The constraints applicable to b) above shall be derived from the
+Ariane 5 User’s manual.

@@ -1,0 +1,6 @@
+SENV-015
+H/P
+The Herschel / Planck composite shall be designed to withstand all
+mechanical static and dynamic loads encountered during its entire life,
+including: manufacturing, assembly, handling, transportation, testing,
+launch and in-orbit operations.

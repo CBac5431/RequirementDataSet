@@ -1,0 +1,10 @@
+SENV-080
+H/P
+The contractor shall be responsible for performing radiation analyses
+as required using the nominal mission scenario and taking into
+account the data from the Herschel L2 Radiation Environment
+document (AD5-1). The in-orbit case with a beginning of mission in
+February 2007 shall be taken into account.
+In particular, the figures related to the Silicon Solar cells, Gallium
+Arsenide cells, single dose/depth, non-ionising dose/depth and raw
+particle spectra shall be taken into account.

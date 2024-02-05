@@ -1,0 +1,5 @@
+SCME-100
+H/P
+Existing parts and components used in mechanisms shall be fully
+qualified for the intended application. The qualification procedures are
+subject to ESA approval.

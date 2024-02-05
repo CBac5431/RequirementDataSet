@@ -1,0 +1,5 @@
+SCME-050
+H/P
+Stiffness requirements shall be established and demonstrated
+compatible with the structural and functional needs at system level for
+all the envisaged configurations of the mechanism.
