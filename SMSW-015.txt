@@ -1,0 +1,5 @@
+SMSW-015
+H/P
+The use of a non high level language (e.g. assembler) code in the S/W
+shall be shown to be absolutely necessary to achieve the required
+performance, to the satisfaction of ESA before it is implemented.

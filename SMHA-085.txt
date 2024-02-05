@@ -1,0 +1,3 @@
+SMHA-085
+H/P
+The shields of cables shall not be used as return lines.

@@ -1,0 +1,4 @@
+SMHA-020
+H/P
+The inductance of the power distribution harness for frequencies up to
+100 kHz shall not exceed the value required by the power standard (AD6-9).

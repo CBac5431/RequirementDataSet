@@ -1,0 +1,5 @@
+SMSW-045
+H/P
+The on-board S/W shall be structured such that modifications
+to any individual code module have minimum impact on other
+modules.

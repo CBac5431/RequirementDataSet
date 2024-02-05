@@ -1,0 +1,4 @@
+SMHA-165
+H/P
+The harness shall comply with the EMC Requirements mentioned in
+section 5.6.4.

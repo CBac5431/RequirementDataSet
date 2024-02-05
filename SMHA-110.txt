@@ -1,0 +1,4 @@
+SMHA-110
+H/P
+All individual wire-to-pin interfaces shall be covered with transparent
+heat shrink sleeves.

@@ -1,0 +1,4 @@
+SMSW-065
+H/P
+The on-board software shall maintain an up-to-dated status of
+tasks, functions and procedures in a non-volatile memory.

@@ -1,0 +1,4 @@
+SMHA-065
+H/P
+Cross strapping of redundant paths and circuits shall not be carried
+out in the harness.

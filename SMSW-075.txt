@@ -1,0 +1,5 @@
+SMSW-075
+H/P
+The S/W shall protect itself against infinite loops, computational
+errors and possible lock-ups resulting from an undetected
+hardware failure.

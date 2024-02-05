@@ -1,0 +1,4 @@
+SMHA-135
+H/P
+The harness restraining systems on the structure shall not bring about
+any stress at connector level.

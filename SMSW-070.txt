@@ -1,0 +1,4 @@
+SMSW-070
+H/P
+Starting or stopping processes shall not affect the execution or
+performance of other running processes.

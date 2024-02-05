@@ -1,0 +1,4 @@
+SMSW-115
+H/P
+S/W engineering parameters shall be available in housekeeping
+telemetry to enable the ground to fully diagnose the status of the S/W.

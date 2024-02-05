@@ -1,0 +1,4 @@
+SMHA-115
+H/P
+The possibility of incorrect mating of connectors shall be excluded by
+design.

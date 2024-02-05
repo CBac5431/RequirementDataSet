@@ -1,0 +1,4 @@
+SMSW-090
+H/P
+The S/W shall normally run in RAM loaded from no volatile
+memory.

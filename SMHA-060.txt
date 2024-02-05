@@ -1,0 +1,3 @@
+SMHA-060
+H/P
+Redundant wire bundles shall be routed differently wherever possible.

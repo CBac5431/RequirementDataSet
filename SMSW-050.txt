@@ -1,0 +1,5 @@
+SMSW-050
+H/P
+The software maintenance environment shall provide the
+means to generate and prepare software patches or full images
+for uplink to the spacecraft.

@@ -1,0 +1,4 @@
+SMHA-070
+H/P
+The pyrotechnic harness shall satisfy the applicable safety
+requirements.

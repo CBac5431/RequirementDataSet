@@ -1,0 +1,4 @@
+SMSW-030
+H/P
+All S/W produced shall be verified by an independent Software
+Verification Team different from the software supplier.

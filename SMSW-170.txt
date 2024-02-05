@@ -1,0 +1,4 @@
+SMSW-170
+H/P
+The SVF shall allow software testing without instrumentation of the
+target code.

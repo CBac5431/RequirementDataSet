@@ -1,0 +1,5 @@
+SMHA-025
+H/P
+The isolation requirements between leads, which are not connected
+together and between shield and centre conductor and shield to shield
+shall be at least 10 Mohm under 500 V DC at both polarities.

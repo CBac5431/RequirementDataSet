@@ -1,0 +1,4 @@
+SMSW-150
+H/P
+All software codes shall be dynamically analysed by a standard
+tool.

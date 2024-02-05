@@ -1,0 +1,4 @@
+SMHA-105
+H/P
+The initial design shall ensure that sufficient (including spare) pins are
+available for all foreseeable subsystem and experiment functions.

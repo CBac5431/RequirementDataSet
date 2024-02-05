@@ -1,0 +1,4 @@
+SMHA-155
+H/P
+All these skin connectors shall be closed by caps, bridging connectors,
+and thermal insulation for flight.

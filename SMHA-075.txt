@@ -1,0 +1,6 @@
+SMHA-075
+H/P
+The pyrotechnic harness shall consist of twisted pairs of wires with an
+overall shield being continuous and connected to the conductive
+connector shells at all interfaces and grounded to the structure at all
+intermediate attachment points.

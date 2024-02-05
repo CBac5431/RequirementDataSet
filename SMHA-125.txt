@@ -1,0 +1,9 @@
+SMHA-125
+H/P
+The harness shall be fixed onto the structure in order to avoid any
+damage during launch phase. As a general rule it will be fixed:
+- at equipment level: the harness connectors shall be fitted onto the
+equipment connectors by appropriate locking systems
+- at the structure level
+- at interface level: the connectors shall be fixed on metallic
+brackets themselves fixed onto the structure.

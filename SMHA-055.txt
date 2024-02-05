@@ -1,0 +1,4 @@
+SMHA-055
+H/P
+Wiring of redundant systems, subsystems or units of subsystems shall
+be routed through separate connectors and wire bundles.

@@ -1,0 +1,4 @@
+SMHA-095
+H/P
+All harness and all box and bracket mounted connectors supplying
+power shall have socket contacts.

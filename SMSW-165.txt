@@ -1,0 +1,4 @@
+SMSW-165
+H/P
+The SVF shall support full testing of the software at source code
+and machine level.

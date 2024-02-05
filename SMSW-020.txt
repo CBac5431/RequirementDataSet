@@ -1,0 +1,4 @@
+SMSW-020
+H/P
+All on board software shall be re-programmable on ground and in
+orbit.

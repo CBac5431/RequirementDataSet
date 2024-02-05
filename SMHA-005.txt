@@ -1,0 +1,8 @@
+SMHA-005
+H/P
+The harness shall provide adequate distribution and separation of all
+power supply lines, analogue and digital data lines, command and
+actuation pulse and stimuli lines between all units of the SVM
+subsystems and those lines to the PLM, Planck module and
+Telescope interfaces, the test connectors, the safe/arm brackets and
+connectors and the umbilical connectors.

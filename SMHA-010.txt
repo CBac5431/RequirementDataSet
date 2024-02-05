@@ -1,0 +1,5 @@
+SMHA-010
+H/P
+The harness shall transmit all electrical currents in a manner
+compatible with the requirements of the source and destination
+unit/interface.

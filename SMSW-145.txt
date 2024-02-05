@@ -1,0 +1,3 @@
+SMSW-145
+H/P
+All software codes shall be statically analysed by a standard tool.

@@ -1,0 +1,5 @@
+SMSW-130
+H/P
+CPU shall contain at least 50 % free (unused) peak load at
+Architectural Acceptance Review and 30 % at Software Acceptance
+Review after coding and testing has been completed.

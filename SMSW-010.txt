@@ -1,0 +1,4 @@
+SMSW-010
+H/P
+The on-board S/W shall be developed using a high level language,
+except where explicitly exempted.

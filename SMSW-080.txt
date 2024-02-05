@@ -1,0 +1,6 @@
+SMSW-080
+H/P
+Fixed areas of on-board memory shall be dedicated to:
+- Code
+- Fixed constants
+- Variable parameters

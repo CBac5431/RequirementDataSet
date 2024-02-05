@@ -1,0 +1,4 @@
+SMSW-105
+H/P
+The data handling shall be provided with the capabilities for its fault
+detection, fault isolation and switching to its redundant items.

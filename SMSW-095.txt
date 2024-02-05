@@ -1,0 +1,7 @@
+SMSW-095
+H/P
+On board memory shall contain at least 50 % free (unused)
+memory at Architectural Acceptance Review and 30 % at
+Software Acceptance Review after coding and testing has been
+completed; it shall be possible to use this free area for code
+and/or data.

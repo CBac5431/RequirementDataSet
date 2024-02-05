@@ -1,0 +1,5 @@
+SMHA-120
+H/P
+The harness connectors shall be easily accessible, attachable and
+removable from the corresponding unit connectors; removal of units or
+disconnection of adjacent connectors shall not be necessary.

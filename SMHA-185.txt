@@ -1,0 +1,5 @@
+SMHA-185
+H/P
+The shields shall be connected to the equipment housings via
+connector pins or to the connector case, if no other special
+arrangement is derived from the EMC analysis of the interface design.

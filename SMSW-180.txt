@@ -1,0 +1,6 @@
+SMSW-180
+H/P
+All Herschel / Planck on-board software shall be delivered to ESA
+in source form including all building scripts necessary to
+regenerate the on-board image. All supporting documentation
+shall also be delivered to ESA

@@ -1,0 +1,6 @@
+SMSW-110
+H/P
+On-board monitoring shall be the activity continuously ensuring that
+the on-board units under supervision are in an acceptable safe state.
+This shall be achieved by regularly checking the state of individual
+parameters in the housekeeping information.

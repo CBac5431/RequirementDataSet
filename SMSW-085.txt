@@ -1,0 +1,4 @@
+SMSW-085
+H/P
+All memory shall support direct patching, including areas where
+memory management is used.

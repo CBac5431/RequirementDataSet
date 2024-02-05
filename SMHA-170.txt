@@ -1,0 +1,4 @@
+SMHA-170
+H/P
+Twisted power lines shall be pre-manufactured by the supplier to
+achieve the best magnetic compensation.

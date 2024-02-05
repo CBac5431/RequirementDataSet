@@ -1,0 +1,4 @@
+SMSW-005
+H/P
+All S/W production and test shall follow the ESA Software Standard,
+ESA ECSS-E-40 (AD6-17) and ESA ECSS Q-80 (AD6-25).

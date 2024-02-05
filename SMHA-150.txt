@@ -1,0 +1,4 @@
+SMHA-150
+H/P
+Skin connectors shall also be provided to make-or-break power
+circuits.

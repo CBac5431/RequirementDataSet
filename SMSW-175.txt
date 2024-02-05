@@ -1,0 +1,8 @@
+SMSW-175
+H/P
+All software licences for any software used to develop and test the
+on-board software shall be maintainable at the same version and
+issue over the full life of the mission at a freeze point in the
+schedule and be deliverable to the Agency with the corresponding
+support documentation. The freeze point shall be established in
+agreement with ESA.

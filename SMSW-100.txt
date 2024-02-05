@@ -1,0 +1,4 @@
+SMSW-100
+H/P
+The spacecraft shall support the dumping to ground of any
+element of the on-board memory, initiated by telecommand.

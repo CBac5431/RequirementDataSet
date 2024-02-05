@@ -1,0 +1,5 @@
+SMHA-140
+H/P
+The harness linking equipment mounted in or on the payload module,
+with the service module shall be such that the heat transferred by
+conduction is optimised for electrical and thermal performances.

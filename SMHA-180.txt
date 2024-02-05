@@ -1,0 +1,5 @@
+SMHA-180
+H/P
+Harness shielding, as far as required, shall preferably be made by
+means of overall shielding, where the signals in the bundles do not
+interfere with one another.

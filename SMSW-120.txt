@@ -1,0 +1,5 @@
+SMSW-120
+H/P
+The software code used to boot up a processor shall be optimised
+and characterised in terms of reliability and time to initialise ( cold /
+warm cases ).

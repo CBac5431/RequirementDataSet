@@ -1,0 +1,5 @@
+SMHA-080
+H/P
+Connections to the initiators shall be capable of being mechanically
+broken during ground handling by safe/arm connectors accessible
+from the outside of the spacecraft.

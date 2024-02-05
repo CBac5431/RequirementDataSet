@@ -1,0 +1,4 @@
+SMSW-160
+H/P
+The SVF shall allow S/W verification to be performed before and
+after the S/W is integrated at subsystem level.

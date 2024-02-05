@@ -1,0 +1,11 @@
+SMHA-045
+H/P
+Physical separation along common lines of the categories listed below
+(power, signals and lines for the mechanisms, if applicable) shall be
+retained between these categories up to and inclusive of the module
+interface connectors. Exceptions can be only the routing of harnesses
+down to connectors in the satellite separation plane.
+- Category 1: all supply lines from power sources to users
+- Category 2: digital signals
+- Category 3: lines for the mechanisms/pyrotechnics
+- Category 4: sensitive analogue signals.

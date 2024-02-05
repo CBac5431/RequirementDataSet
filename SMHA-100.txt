@@ -1,0 +1,4 @@
+SMHA-100
+H/P
+Where it is necessary to have a shield connection through a
+connector, separate pins shall be used.

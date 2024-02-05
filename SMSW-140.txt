@@ -1,0 +1,5 @@
+SMSW-140
+H/P
+Test tools in the development testing of the S/W shall support the
+same telemetry and telecommand data base as used in system
+level testing.

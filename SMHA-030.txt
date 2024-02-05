@@ -1,0 +1,4 @@
+SMHA-030
+H/P
+The loop resistance shall be optimised to insure the best compromise
+between the drop voltage acceptable to units and the harness mass.

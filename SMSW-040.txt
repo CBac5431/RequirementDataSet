@@ -1,0 +1,4 @@
+SMSW-040
+H/P
+The spacecraft shall support post-launch modifications of all
+on-board software.

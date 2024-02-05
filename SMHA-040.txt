@@ -1,0 +1,8 @@
+SMHA-040
+H/P
+The mechanical construction of the harness shall assure the reliable
+operation of the spacecraft under all environmental conditions. The
+stress, which occurs during manufacturing, integration, test, transport,
+launch preparation, launch and in-orbit operation shall cause no
+changes in the harness, which might affect the correct functioning of
+the system.

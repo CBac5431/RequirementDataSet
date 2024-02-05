@@ -1,0 +1,5 @@
+SMSW-060
+H/P
+The on-board software shall be implemented with a layered
+structure separating hardware, software, input/output, basic
+services and general mission services.

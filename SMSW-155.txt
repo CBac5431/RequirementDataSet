@@ -1,0 +1,8 @@
+SMSW-155
+H/P
+A Software Validation Facility (SVF) shall support the software
+verification at the following levels during development and
+maintenance phases:
+- unit level; i.e. procedure or function level
+- integration level; i.e. module level
+- subsystem level; i.e. S/W subsystem level

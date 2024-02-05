@@ -1,0 +1,5 @@
+SMSW-125
+H/P
+The processor shall boot to a stage that provides the basic critical
+functions (HK telemetry, TC execution and critical autonomous
+functions).

@@ -1,0 +1,5 @@
+SMHA-175
+H/P
+Other lines shall be twisted as far as practicable with their
+corresponding return path, or shall run adjacent to the reference
+grounds to minimise magnetic loops.

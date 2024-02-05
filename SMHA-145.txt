@@ -1,0 +1,6 @@
+SMHA-145
+H/P
+Permanent connections installed for purposes of test at integrated
+satellite level shall be routed to skin connectors of the modules
+concerned (module interface connectors are no longer accessible at
+that level).

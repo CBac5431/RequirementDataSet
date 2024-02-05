@@ -1,0 +1,5 @@
+SMHA-015
+H/P
+The power harness DC equivalent resistance from the main regulation
+point to the input of the load (line and return) shall not exceed the
+value required by the power standard ESA PSS-02-10 (AD6-9).

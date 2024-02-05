@@ -1,0 +1,4 @@
+SMHA-050
+H/P
+All equipment shall use a separate connector dedicated to its
+functional interface, according to the categories listed above.

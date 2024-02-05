@@ -1,0 +1,4 @@
+SMHA-130
+H/P
+Fixation of sensitive signal lines shall be such as to avoid micro-phonic
+noise.
